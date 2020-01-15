@@ -1,0 +1,21 @@
+{
+  "_name": "appliedenergistics2:tile.BlockCondenser",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 2.2,
+    "resistance": 11.0,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

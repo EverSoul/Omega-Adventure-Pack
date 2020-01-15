@@ -1,0 +1,16 @@
+{
+  "_name": "GalacticraftCore:tile.airLockSeal",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 1000.0,
+    "resistance": 5000.0,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

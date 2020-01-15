@@ -1,0 +1,11 @@
+
+apple = minecraft:apple,5,0,10
+bread = minecraft:bread,5,0,80
+pork = minecraft:porkchop,5,0,70
+cookie = minecraft:cookie,8,0,20
+melon = minecraft:melon,6,0,50
+steak = minecraft:beef,8,0,70
+chicken = minecraft:chicken,6,0,40
+carrot = minecraft:carrot,3,0,30
+potato = minecraft:potato,3,0,30
+potatoPoisoned = minecraft:poisonous_potato,1,0,10

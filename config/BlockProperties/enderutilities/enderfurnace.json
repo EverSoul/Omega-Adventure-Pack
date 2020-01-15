@@ -1,0 +1,37 @@
+{
+  "_name": "enderutilities:enderfurnace",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 6.0,
+    "resistance": 30.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 1,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 2,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 3,
+        "tool": "pickaxe",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

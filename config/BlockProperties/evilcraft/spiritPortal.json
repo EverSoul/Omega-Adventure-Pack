@@ -1,0 +1,16 @@
+{
+  "_name": "evilcraft:spiritPortal",
+  "stats": {
+    "opacity": 0,
+    "brightness": 7,
+    "hardness": 50.0,
+    "resistance": 1.8E7,
+    "sound": "cloth",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

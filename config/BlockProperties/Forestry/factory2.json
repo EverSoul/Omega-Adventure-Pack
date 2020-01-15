@@ -1,0 +1,16 @@
+{
+  "_name": "Forestry:factory2",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 1.5,
+    "resistance": 7.5,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

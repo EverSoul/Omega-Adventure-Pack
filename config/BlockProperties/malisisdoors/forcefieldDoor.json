@@ -1,0 +1,16 @@
+{
+  "_name": "malisisdoors:forcefieldDoor",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": -1.0,
+    "resistance": 1.8E8,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

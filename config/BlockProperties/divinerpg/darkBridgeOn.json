@@ -1,0 +1,16 @@
+{
+  "_name": "divinerpg:darkBridgeOn",
+  "stats": {
+    "opacity": 3,
+    "brightness": 15,
+    "hardness": 1.5,
+    "resistance": 7.5,
+    "sound": "glass",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

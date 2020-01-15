@@ -1,0 +1,31 @@
+#biomes = PLAINS, WASTELAND, FOREST, DESERT, SWAMP
+biomes = NONWATER
+
+#chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 50
+
+#mob: defines the mob spawned in that dungeon
+mob = default
+
+#icon: used as the item icon intex in the dungeon spawner item.
+icon = 5
+
+#Builder allows you to choose what builder does the dungeon use
+builder = castle
+
+#Options
+#maxSize : Size of the castle perimeter
+maxSize = 50
+#roomSize of individual rooms(also affects towers)
+roomSize = 10
+#doorWidth, doorHeigth: height and width of interior doors
+doorWidth = 2
+doorHeight = 3
+#floorHeight: height of rooms
+floorHeight = 6
+#wallBlock
+wallBlock : minecraft:stonebrick
+#mobRatio: max ammount of monsters in the same room
+mobRatio = 2

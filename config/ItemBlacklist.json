@@ -1,0 +1,24 @@
+{
+  "__GLOBAL__": [
+    {
+      "item": "aether:continuumOrb",
+      "damage": "*"
+    },
+    {
+      "item": "aether:continuumOre",
+      "damage": "*"
+    },
+    {
+      "item": "OreSpawn:OreSpawn_OreTermiteTrollBlock",
+      "damage": "*"
+    },
+    {
+      "item": "aether:continuumBomb",
+      "damage": "*"
+    },
+    {
+      "item": "OreSpawn:OreSpawn_OreRedAntTrollBlock",
+      "damage": "*"
+    }
+  ]
+}

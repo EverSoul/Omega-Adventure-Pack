@@ -1,0 +1,32 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "Vines",
+      "block": {
+        "comment": "Vines",
+        "mod_id": "minecraft",
+        "name": "vine",
+        "meta": 32767
+      }
+    },
+    {
+      "comment": "",
+      "block": {
+        "comment": "",
+        "mod_id": "BiomesOPlenty",
+        "name": "willow",
+        "meta": 32767
+      }
+    },
+    {
+      "comment": "",
+      "block": {
+        "comment": "",
+        "mod_id": "BiomesOPlenty",
+        "name": "ivy",
+        "meta": 32767
+      }
+    }
+  ]
+}

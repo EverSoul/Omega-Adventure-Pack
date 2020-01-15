@@ -1,0 +1,16 @@
+{
+  "_name": "OreSpawn:OreSpawn_LavafoamBlock",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 5.0,
+    "resistance": 15.0,
+    "sound": "stone",
+    "slipperiness": 1.1,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

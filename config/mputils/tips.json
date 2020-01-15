@@ -1,0 +1,46 @@
+{
+  "BLOCK_LOOKING_AT": [
+    {
+      "tipID": "dirt",
+      "tipName": "Dirt Tip",
+      "block": "minecraft:dirt",
+      "desc": "Use Dirt to Grow plants"
+    },
+    {
+      "tipID": "grass",
+      "tipName": "Grass Tip",
+      "block": "minecraft:grass",
+      "desc": "Use Grass to feed sheep"
+    },
+    {
+      "tipID": "wood",
+      "tipName": "Wood Tip",
+      "block": "minecraft:log",
+      "desc": "Use Wood to make stuff",
+      "useOreDictonary": true
+    }
+  ],
+  "TOOLTIP": [
+    {
+      "tipID": "redstone",
+      "tipName": "Redstone ToolTip",
+      "item": "minecraft:redstone",
+      "desc": "Use redstone to power \nyour devices"
+    }
+  ],
+  "INFO": [
+    {
+      "tipID": "info1",
+      "tipName": "Dont Dig Down",
+      "desc": "Never dig down as you could fall into lava or a deep cavern!"
+    }
+  ],
+  "DIMENSION": [
+    {
+      "tipID": "nether",
+      "tipName": "Enter the Nether",
+      "dimid": -1,
+      "desc": "You have Entered the Nether. \nThis place is very dangerous. Keep armor, a sword, and a bow handy."
+    }
+  ]
+}

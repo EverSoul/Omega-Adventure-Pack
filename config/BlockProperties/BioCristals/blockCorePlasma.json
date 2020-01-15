@@ -1,0 +1,16 @@
+{
+  "_name": "BioCristals:blockCorePlasma",
+  "stats": {
+    "opacity": 25,
+    "brightness": 7,
+    "hardness": 5.0,
+    "resistance": 6000.0,
+    "sound": "gravel",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

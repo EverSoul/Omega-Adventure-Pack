@@ -1,0 +1,20 @@
+{
+  "_name": "EnderIO:blockConduitBundle",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 30.0,
+    "sound": "<unknown>",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

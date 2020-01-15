@@ -1,0 +1,21 @@
+{
+  "_name": "abyssalcraft:darkethaxiumbrickslab2",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 150.0,
+    "resistance": Infinity,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 8
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

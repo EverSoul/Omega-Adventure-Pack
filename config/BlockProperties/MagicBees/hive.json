@@ -1,0 +1,47 @@
+{
+  "_name": "MagicBees:hive",
+  "stats": {
+    "opacity": 255,
+    "brightness": 12,
+    "hardness": 1.0,
+    "resistance": 5.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "scoop",
+        "level": 0
+      },
+      {
+        "_meta": 1,
+        "tool": "scoop",
+        "level": 0
+      },
+      {
+        "_meta": 2,
+        "tool": "scoop",
+        "level": 0
+      },
+      {
+        "_meta": 3,
+        "tool": "scoop",
+        "level": 0
+      },
+      {
+        "_meta": 4,
+        "tool": "scoop",
+        "level": 0
+      },
+      {
+        "_meta": 5,
+        "tool": "scoop",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

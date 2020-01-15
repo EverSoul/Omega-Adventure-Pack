@@ -1,0 +1,16 @@
+{
+  "_name": "witchery:circle",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 3.0,
+    "resistance": 3000.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

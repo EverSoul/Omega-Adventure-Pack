@@ -1,0 +1,137 @@
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.screenshot:60
+key_key.togglePerspective:63
+key_key.smoothCamera:0
+key_key.sprint:29
+key_key.streamStartStop:64
+key_key.streamPauseUnpause:65
+key_key.streamCommercial:0
+key_key.streamToggleMic:0
+key_key.fullscreen:87
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:10
+key_Zoom:26
+key_ALT Key:0
+key_Boost Key:29
+key_Mode Switch Key:50
+key_Side Inventory Key:46
+key_Hub Expand Key:45
+key_Sprint (FZ):0
+key_PcktCrft Open (FZ):0
+key_Draw Weapons:56
+key_Special:44
+key_Change Mode:0
+key_Tool Increase:201
+key_Tool Decrease:209
+key_igwmod.keys.wiki:23
+key_key_ironbackpacks_openbackpack:0
+key_key_ironbackpacks_equipbackpack:48
+key_Minions Menu:49
+key_key.nh.toggle:0
+key_Pneumatic Helmet Options:33
+key_Pneumatic Helmet Hack:35
+key_Pneumatic Helmet Debugging Drone:21
+key_simplyjetpacks.keybind.toggle.primary:33
+key_simplyjetpacks.keybind.toggle.secondary:0
+key_simplyjetpacks.keybind.mode.primary:22
+key_simplyjetpacks.keybind.mode.secondary:0
+key_simplyjetpacks.keybind.openPackGUI:22
+key_key.liquipackinv:0
+key_Baubles Inventory:0
+key_Change Wand Focus:33
+key_Activate Hover Harness:35
+key_Misc Wand Toggle:34
+key_waila.keybind.wailaconfig:52
+key_waila.keybind.wailadisplay:0
+key_waila.keybind.liquid:0
+key_waila.keybind.recipe:0
+key_waila.keybind.usage:0
+key_Glider Toggle:34
+key_Sound Locator:38
+key_Night Vision:25
+key_Goggles of Revealing:0
+key_Step Assist:0
+key_Speed:0
+key_Jump:0
+key_Yeta Wrench Mode:21
+key_Toggle Electromagnet:0
+key_key.tarmor:0
+key_key.tgoggles:0
+key_key.tbelt:0
+key_key.tzoom:0
+key_key.betterchests.openBag:78
+key_ttmisc.toggleArmor:22
+key_key.craftingcraft.portableCrafting:0
+key_key.craftingtweaks.rotate:0
+key_key.craftingtweaks.balance:0
+key_key.craftingtweaks.clear:0
+key_key.craftingtweaks.toggleButtons:0
+key_key.craftingtweaks.compress:0
+key_key.craftingtweaks.decompress:0
+key_key.placeItem:0
+key_key.toolConfig:46
+key_key.toolProfileChange:43
+key_key.toggleFlight:0
+key_key.M320Switch:0
+key_key.SelectFire:47
+key_key.SpecialAmmo:34
+key_key.QuickKnife:33
+key_Jetpack control-mode:0
+key_Jetpack On/Off:0
+key_key.categories.naming:0
+key_invtweaks.key.sort:19
+key_key.modifier:13
+key_key.materialCosts:0
+key_key.clipboardPaste:210
+key_key.openRadial:0
+key_key.reload:0
+key_key.dialerModeChange.name:50
+key_key.armor:0
+key_techguns.key.toggleNightvision:49
+key_techguns.key.toggleSafemode:48
+key_techguns.key.toggleStepassist:47
+key_techguns.key.forceReload:19
+key_techguns.key.toggleJetpack:36
+key_key.mode:0
+key_key.hud:22
+key_key.craftingGrid:0
+key_key.cofh.empower:0
+key_key.cofh.multimode:0
+key_railcraft.keybind.loco.faster:0
+key_railcraft.keybind.loco.slower:51
+key_railcraft.keybind.loco.mode:50
+key_railcraft.keybind.loco.whistle:0
+key_key.control:0
+key_key.ShapeGroups:39
+key_key.SpellBookNext:40
+key_key.SpellBookPrev:74
+key_key.AuraCustomization:207
+key_key.ToggleManaDisplay:14
+key_key.ActivateAffinityAbility:211
+key_key.journeymap.map_toggle:45
+key_key.journeymap.zoom_in:0
+key_key.journeymap.zoom_out:0
+key_key.journeymap.minimap_type:0
+key_key.journeymap.minimap_type:0
+key_key.journeymap.minimap_preset:0
+key_key.journeymap.create_waypoint:48

@@ -1,0 +1,21 @@
+{
+  "_name": "thebetweenlands:blSpawner",
+  "stats": {
+    "opacity": 0,
+    "brightness": 14,
+    "hardness": 10.0,
+    "resistance": 50.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

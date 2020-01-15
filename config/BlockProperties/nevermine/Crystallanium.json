@@ -1,0 +1,16 @@
+{
+  "_name": "nevermine:Crystallanium",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 1.0,
+    "resistance": 1.5,
+    "sound": "glass",
+    "slipperiness": 1.25,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

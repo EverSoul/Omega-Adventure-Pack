@@ -1,0 +1,21 @@
+{
+  "_name": "jurassicraft:tile.low_Security_Fence_Pole",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 7.5,
+    "resistance": 337.5,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

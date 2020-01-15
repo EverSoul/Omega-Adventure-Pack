@@ -1,0 +1,22 @@
+saddle = minecraft:saddle,1,0,15
+iron = minecraft:iron_ingot,3,0,10
+gold = minecraft:gold_ingot,3,0,5
+wheat = minecraft:wheat,9,0,30
+clock= minecraft:clock,1,0,10
+gunpowder = minecraft:gunpowder,3,0,80
+leather= minecraft:leather,5,0,80
+torch = minecraft:torch,10,0,100
+coal= minecraft:coal,8,0,30
+arrow= minecraft:arrow,16,0,80
+cocoa= minecraft:dye,2,3,20
+cookie= minecraft:cookie,3,0,30
+lead= minecraft:lead,1,0,15
+nameTag= minecraft:name_tag,1,0,5
+map= minecraft:map,1,0,10
+emerald= minecraft:emerald,1,0,20
+ironHorseArmor= minecraft:iron_horse_armor,1,0,10
+goldHorseArmor= minecraft:golden_horse_armor,1,0,5
+diamondHorseArmor= minecraft:diamond_horse_armor,1,0,1
+
+potion= chocolateQuest:healingPotion 1,0,20
+bullets= chocolateQuest:bullet,9,0,10

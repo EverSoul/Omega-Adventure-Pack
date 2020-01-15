@@ -1,0 +1,21 @@
+{
+  "_name": "ea:pillar/glowstone_pillar",
+  "stats": {
+    "opacity": 0,
+    "brightness": 15,
+    "hardness": 5.0,
+    "resistance": 135.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

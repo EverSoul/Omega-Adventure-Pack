@@ -1,0 +1,18 @@
+{
+  "questSettings": {
+    "betterquesting": {
+      "livesMax": 10,
+      "home_anchor_y": 0.0,
+      "livesDef": 3,
+      "home_anchor_x": 0.5,
+      "hardcore": false,
+      "home_image": "betterquesting:textures/gui/default_title.png",
+      "editMode": true,
+      "home_offset_x": -128,
+      "home_offset_y": 0
+    }
+  },
+  "questDatabase": [],
+  "questLines": [],
+  "format": "1.0.0"
+}

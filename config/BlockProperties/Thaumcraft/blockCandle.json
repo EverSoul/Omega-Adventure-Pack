@@ -1,0 +1,16 @@
+{
+  "_name": "Thaumcraft:blockCandle",
+  "stats": {
+    "opacity": 0,
+    "brightness": 14,
+    "hardness": 0.1,
+    "resistance": 0.5,
+    "sound": "cloth",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

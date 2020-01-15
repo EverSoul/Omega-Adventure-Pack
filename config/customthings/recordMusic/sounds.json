@@ -1,0 +1,11 @@
+{
+  "records.customthings.LikeBlock": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/LikeBlock",
+        "stream": true
+      }
+    ]
+  }
+}

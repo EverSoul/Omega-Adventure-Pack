@@ -1,0 +1,20 @@
+{
+  "_name": "Forestry:slabsDouble",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 15.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "axe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

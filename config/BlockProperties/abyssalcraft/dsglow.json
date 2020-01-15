@@ -1,0 +1,21 @@
+{
+  "_name": "abyssalcraft:dsglow",
+  "stats": {
+    "opacity": 255,
+    "brightness": 15,
+    "hardness": 55.0,
+    "resistance": 9000.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 3
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

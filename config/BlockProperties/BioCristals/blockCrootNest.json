@@ -1,0 +1,16 @@
+{
+  "_name": "BioCristals:blockCrootNest",
+  "stats": {
+    "opacity": 25,
+    "brightness": 0,
+    "hardness": 2.0,
+    "resistance": 6000.0,
+    "sound": "gravel",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

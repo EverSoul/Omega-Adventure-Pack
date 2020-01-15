@@ -1,0 +1,606 @@
+Script handler ready. Waiting for a while to ensure all other mods are done messing with NEI.
+Starting NEI Filter scripting. This might take a moment to load all the modules...
+Engine: JAVASCRIPT
+Setting up Java Library...
+Setting up FML Library...
+Setting up NEI Library...
+Setting up CreativeTab library...
+Found creative tab: IC2
+Found creative tab: tabBloodMagic
+Found creative tab: misc
+Found creative tab: actuallyadditions
+Found creative tab: extraUtil
+Found creative tab: materials
+Found creative tab: brewing
+Found creative tab: thermalfoundation.creativeTab
+Found creative tab: buildcraft.main
+Found creative tab: buildingBlocks
+Found creative tab: buildcraft.pipes
+Found creative tab: redstone
+Found creative tab: agricraft
+Found creative tab: tabs.awcore
+Found creative tab: tabs.automation
+Found creative tab: tabs.npc
+Found creative tab: tabs.structures
+Found creative tab: archimedesTab
+Found creative tab: tools
+Found creative tab: aroma1997core:creativetab
+Found creative tab: aroma1997sdimension:creativeTabDW
+Found creative tab: Automagy
+Found creative tab: circuits
+Found creative tab: avaritia
+Found creative tab: tab.backpacks
+Found creative tab: creativeTabBC
+Found creative tab: BiblioCraft
+Found creative tab: BiblioCraftLights
+Found creative tab: BigReactors
+Found creative tab: Genetics
+Found creative tab: apiculture
+Found creative tab: Bio Cristal
+Found creative tab: Bio_Cristal_Tokens
+Found creative tab: BA_TAB
+Found creative tab: Botania
+Found creative tab: Botany
+Found creative tab: buildcraft.boards
+Found creative tab: buildcraft.facades
+Found creative tab: buildcraft.gates
+Found creative tab: clg
+Found creative tab: Calculator
+Found creative tab: CarpentersBlocks
+Found creative tab: compactmachines
+Found creative tab: combat
+Found creative tab: ComputerCraft
+Found creative tab: Custom Pets
+Found creative tab: DefenseTech
+Found creative tab: blocksAndItems
+Found creative tab: food
+Found creative tab: toolsAndWeapons
+Found creative tab: tabRadioMod
+Found creative tab: enchiridion
+Found creative tab: EnderIO
+Found creative tab: decorations
+Found creative tab: EnderTechAll
+Found creative tab: transportation
+Found creative tab: extratic.parts
+Found creative tab: extratic.blocks
+Found creative tab: extratic.items
+Found creative tab: extratic.buckets
+Found creative tab: arboriculture
+Found creative tab: lepidopterology
+Found creative tab: extraUtil_FMP
+Found creative tab: forbidden
+Found creative tab: mobcrystal
+Found creative tab: forestry
+Found creative tab: GalacticraftItems
+Found creative tab: GalacticraftBlocks
+Found creative tab: Official.aek971
+Found creative tab: GunCus.bullets
+Found creative tab: Official.g17
+Found creative tab: Official.g18
+Found creative tab: Official.l96
+Found creative tab: Official.m16a3
+Found creative tab: Official.sv98
+Found creative tab: GunCus.modifications
+Found creative tab: tabHardcoreEnderExpansion
+Found creative tab: Nuclear Control 2
+Found creative tab: ImmersiveEngineering
+Found creative tab: tabIndustrialExpansion
+Found creative tab: Inventory Pets
+Found creative tab: JAKJ_RedstoneInMotion
+Found creative tab: Lightwave
+Found creative tab: Logistics_Pipes
+Found creative tab: tabMCA
+Found creative tab: tabMCA.gemCutting
+Found creative tab: moreSwords
+Found creative tab: magicBees
+Found creative tab: Magneticraft|Industrial Age
+Found creative tab: Magneticraft|Steam Age
+Found creative tab: Magneticraft|Main
+Found creative tab: Magneticraft|Electrical Age
+Found creative tab: Magneticraft|Information Age
+Found creative tab: tabMekanism
+Found creative tab: Metallurgy.Tools
+Found creative tab: Metallurgy.Items
+Found creative tab: Metallurgy.Machines
+Found creative tab: Metallurgy.Blocks
+Found creative tab: Metallurgy.Armor
+Found creative tab: metallurgyCore.items
+Found creative tab: Mimicry
+Found creative tab: MineFactory Reloaded
+Found creative tab: NVLToolsTab
+Found creative tab: natura.plants
+Found creative tab: natura.nether
+Found creative tab: natura.trees
+Found creative tab: Nether Ores
+Found creative tab: tabNC
+Found creative tab: tabOpenBlocks
+Found creative tab: OpenComputers
+Found creative tab: tabOpenPeripheralAddons
+Found creative tab: tabPneumaticCraft
+Found creative tab: Power Converters
+Found creative tab: Practical Logistics
+Found creative tab: TConstructBlocks
+Found creative tab: core
+Found creative tab: expansion
+Found creative tab: exploration
+Found creative tab: fab
+Found creative tab: ill
+Found creative tab: int
+Found creative tab: trans
+Found creative tab: transport
+Found creative tab: ProjectE
+Found creative tab: rio
+Found creative tab: railcraft
+Found creative tab: Random Things
+Found creative tab: redstonearsenal.creativeTab
+Found creative tab: Redstonic
+Found creative tab: ResonantToolboxTab
+Found creative tab: Router Reborn
+Found creative tab: gcewing_sg:sgcraft
+Found creative tab: soul_shards_the_old_ways
+Found creative tab: tabSilentGems
+Found creative tab: tabSilentPets
+Found creative tab: solarexpansion
+Found creative tab: solarflux
+Found creative tab: SparksHammers
+Found creative tab: sfm
+Found creative tab: SC2Blocks
+Found creative tab: SC2Modules
+Found creative tab: SC2Items
+Found creative tab: storageDrawers
+Found creative tab: storageDrawersForestry
+Found creative tab: storageDrawersMisc
+Found creative tab: tabSuperMultiDrills
+Found creative tab: TConstructWeaponry
+Found creative tab: TConstructParts
+Found creative tab: TConstructTools
+Found creative tab: TConstructMaterials
+Found creative tab: TConstructEquipables
+Found creative tab: TMechworks
+Found creative tab: TSteelworks
+Found creative tab: TaintedMagic
+Found creative tab: TardisModCraftableTab
+Found creative tab: TardisModTab
+Found creative tab: Techguns
+Found creative tab: thaumcraft
+Found creative tab: ThaumicTinkerer
+Found creative tab: thermaldynamics.creativeTab
+Found creative tab: thermaldynamics.creativeTabCovers
+Found creative tab: thermalexpansion.creativeTabBlocks
+Found creative tab: thermalexpansion.creativeTabItems
+Found creative tab: thermalexpansion.creativeTabTools
+Found creative tab: thermalexpansion.creativeTabFlorbs
+Found creative tab: thermalfoundation.creativeTabArmor
+Found creative tab: thermalfoundation.creativeTabTools
+Found creative tab: travellersgear
+Found creative tab: twilightForest
+Found creative tab: witchinggadgets
+Found creative tab: ztones
+Found creative tab: acdblocks
+Found creative tab: acitems
+Found creative tab: actools
+Found creative tab: acctools
+Found creative tab: acblocks
+Found creative tab: acfood
+Found creative tab: accoins
+Found creative tab: accrystals
+Found creative tab: AcademyCraft
+Found creative tab: origin
+Found creative tab: bdew.generators
+Found creative tab: bdew.ae2stuff
+Found creative tab: ae2wct
+Found creative tab: Aether Materials
+Found creative tab: Aether Blocks
+Found creative tab: Aether Miscellaneous
+Found creative tab: Aether Food
+Found creative tab: Aether Accessories
+Found creative tab: Aether Weapons
+Found creative tab: Companions
+Found creative tab: Aether Tools
+Found creative tab: Aether Armor
+Found creative tab: aobd
+Found creative tab: appaero
+Found creative tab: appint
+Found creative tab: appliedenergistics2
+Found creative tab: appliedenergistics2.facades
+Found creative tab: arcaneengineering
+Found creative tab: JordTab
+Found creative tab: Ars Magica Items
+Found creative tab: Ars Magica Blocks
+Found creative tab: aura
+Found creative tab: avaritiaddons
+Found creative tab: BuildcraftAdditions
+Found creative tab: bcaCanisters
+Found creative tab: bcaDusts
+Found creative tab: Eureka
+Found creative tab: betterquesting
+Found creative tab: buildersguides
+Found creative tab: tabFurniture
+Found creative tab: tabWoodChiselBlocks
+Found creative tab: tabStairChiselBlocks
+Found creative tab: tabModdedChiselBlocks
+Found creative tab: tabStoneChiselBlocks
+Found creative tab: tabOtherChiselBlocks
+Found creative tab: tabChisel
+Found creative tab: tabMetalChiselBlocks
+Found creative tab: Scientific
+Found creative tab: compactStorage
+Found creative tab: ContraptionTab
+Found creative tab: cookingbook
+Found creative tab: craftarcanum
+Found creative tab: craftingcraft
+Found creative tab: Blocks
+Found creative tab: Utility
+Found creative tab: Vethea
+Found creative tab: Herbalism
+Found creative tab: Armor
+Found creative tab: Tools
+Found creative tab: Swords
+Found creative tab: Ranged
+Found creative tab: Materials
+Found creative tab: Spawner
+Found creative tab: tabDMTweaks
+Found creative tab: doggytalents
+Found creative tab: tabEbonArtsItems
+Found creative tab: tabEbonArtsBlocks
+Found creative tab: tabEbonArtsDyeables
+Found creative tab: enderutilities
+Found creative tab: tabItems
+Found creative tab: tabModules
+Found creative tab: tabBlocks
+Found creative tab: enhancedportals
+Found creative tab: eplus
+Found creative tab: equivalentenergistics
+Found creative tab: erebus.plants
+Found creative tab: erebus.block
+Found creative tab: erebus.special
+Found creative tab: erebus.gear
+Found creative tab: erebus.item
+Found creative tab: eternalsingularity
+Found creative tab: EvilCraft
+Found creative tab: Ewy's Workshop
+Found creative tab: Extra_Cells
+Found creative tab: extracoal.extracoal
+Found creative tab: rt.name
+Found creative tab: flammpfeil.slashblade
+Found creative tab: Fluxed Trinkets
+Found creative tab: Fossil Blocks
+Found creative tab: Fossil Items
+Found creative tab: furnus
+Found creative tab: gadomancy
+Found creative tab: bdew.gendustry
+Found creative tab: bdew.samples
+Found creative tab: bdew.templates
+Found creative tab: guideapi.creativeTab
+Found creative tab: Hammerz
+Found creative tab: hardcorewither.creativeTab
+Found creative tab: tabHarvestCraft2
+Found creative tab: tabHarvestCraft3
+Found creative tab: tabHarvestCraft
+Found creative tab: immersiveintegration
+Found creative tab: ironbackpacks
+Found creative tab: Ironfurnace
+Found creative tab: irontank
+Found creative tab: jurassicraft.syringesEggs
+Found creative tab: jurassicraft.itemsFood
+Found creative tab: jurassicraft.items
+Found creative tab: jurassicraft.dnas
+Found creative tab: jurassicraft.spawnEggs
+Found creative tab: jurassicraft.blocks
+Found creative tab: lcItems
+Found creative tab: lcBlocks
+Found creative tab: magicalcrops
+Found creative tab: magicalcropsarmour
+Found creative tab: magicalcropsdeco
+Found creative tab: MagnanimousTools
+Found creative tab: malisisdoors
+Found creative tab: metallurgychisel.tab
+Found creative tab: metallurgycm
+Found creative tab: mffs
+Found creative tab: tabMatterOverdrive_food
+Found creative tab: tabMatterOverdrive
+Found creative tab: tabMatterOverdrive_buildings
+Found creative tab: tabMatterOverdrive_decorative
+Found creative tab: tabMatterOverdrive_ships
+Found creative tab: tabMatterOverdrive_modules
+Found creative tab: tabMatterOverdrive_upgrades
+Found creative tab: moarcarts
+Found creative tab: tabMobDropCrops
+Found creative tab: mopickaxes
+Found creative tab: WeaponsTab
+Found creative tab: GenerationTab
+Found creative tab: ArmorTab
+Found creative tab: BowsTab
+Found creative tab: SlabTab
+Found creative tab: ToolsTab
+Found creative tab: MineralsTab
+Found creative tab: SwordsTab
+Found creative tab: MiscTab
+Found creative tab: TablesTab
+Found creative tab: FurnitureTab
+Found creative tab: CannonsTab
+Found creative tab: BossesTab
+Found creative tab: AncientTab
+Found creative tab: StaffTab
+Found creative tab: GreatbladesTab
+Found creative tab: SnipersTab
+Found creative tab: VulcanesTab
+Found creative tab: FarmingTab
+Found creative tab: FishTab
+Found creative tab: ThrowablesTab
+Found creative tab: RunesTab
+Found creative tab: ArchergunTab
+Found creative tab: TotemsTab
+Found creative tab: ScythesTab
+Found creative tab: LightingTab
+Found creative tab: SoulTab
+Found creative tab: DecorativeBlocksTab
+Found creative tab: nhlib
+Found creative tab: nhwrench.items
+Found creative tab: nhwrench.shaders
+Found creative tab: ocminecart.modtab
+Found creative tab: openmodularturrets
+Found creative tab: openradio
+Found creative tab: OpenSecurity
+Found creative tab: powersuits
+Found creative tab: bdew.canisters
+Found creative tab: bdew.pressure
+Found creative tab: PATab
+Found creative tab: props.Main
+Found creative tab: search
+Found creative tab: tabQuantumFlux
+Found creative tab: tabRailcraftCos
+Found creative tab: inventoryGenerators
+Found creative tab: structureTools
+Found creative tab: rfdrills
+Found creative tab: RfTools
+Found creative tab: RfToolsDimlets
+Found creative tab: runesofwizardry_main
+Found creative tab: runicdungeons
+Found creative tab: tabSecurityCraft
+Found creative tab: tabSimplyJetpacks
+Found creative tab: Traincraft
+Found creative tab: Technomancy
+Found creative tab: techreborn
+Found creative tab: Thaumic Bases Blocks
+Found creative tab: Thaumic Bases Items
+Found creative tab: ThaumicEnergistics
+Found creative tab: thaumicinfusion
+Found creative tab: thebetweenlands.block
+Found creative tab: thebetweenlands.herbLore
+Found creative tab: thebetweenlands.plants
+Found creative tab: thebetweenlands.special
+Found creative tab: thebetweenlands.item
+Found creative tab: thebetweenlands.gear
+Found creative tab: TinkerIO_Tabs
+Found creative tab: tis3d
+Found creative tab: tabVending
+Found creative tab: tabWarpBook
+Found creative tab: tabWitchery
+Found creative tab: xact
+Found creative tab: xreliquary
+Found creative tab: zettaindustries
+Setting up ForgeMicroblock Library...
+Setting up ExtraUtilities Library...
+Setting up BuildCraft Library...
+Setting up Applied Energistics 2 Library...
+Loading table of contents for module: custom_nei_filters, 1.0, Author: denoflionsx
+Bootstrap setting found. Loading: Bootstrap.js
+Loading: vanilla.js
+hide called. Params: minecraft, portal
+Regex match found! minecraft:portal matches minecraft:portal.
+Found ItemStack minecraft:portal. 64xtile.portal@0
+hide called. Params: minecraft, end_portal
+Regex match found! minecraft:end_portal matches minecraft:end_portal.
+Found ItemStack minecraft:end_portal. 64xtile.null@0
+hide called. Params: minecraft, fire
+Regex match found! minecraft:fire matches minecraft:fire.
+Found ItemStack minecraft:fire. 64xtile.fire@0
+hide called. Params: minecraft, water
+Regex match found! minecraft:water matches minecraft:water.
+Found ItemStack minecraft:water. 64xtile.water@0
+hide called. Params: minecraft, lava
+Regex match found! minecraft:lava matches minecraft:lava.
+Found ItemStack minecraft:lava. 64xtile.lava@0
+hide called. Params: minecraft, mob_spawner
+Regex match found! minecraft:mob_spawner matches minecraft:mob_spawner.
+Found ItemStack minecraft:mob_spawner. 64xtile.mobSpawner@0
+override called. Params: minecraft, potion, 0
+Regex match found! minecraft:potion matches minecraft:potion.
+Found ItemStack minecraft:potion. 1xitem.potion@0
+override called. Params: minecraft, spawn_egg, 0
+Regex match found! minecraft:spawn_egg matches minecraft:spawn_egg.
+Found ItemStack minecraft:spawn_egg. 64xitem.monsterPlacer@0
+Loading: ThermalExpansion.js
+override called. Params: ThermalExpansion, florb, 0,1
+Regex match found! ThermalExpansion:florb matches ThermalExpansion:florb.
+Found ItemStack ThermalExpansion:florb. 16xitem.thermalexpansion.florb@0
+Loading: Mekanism.js
+override called. Params: Mekanism, GasTank, 100
+Regex match found! Mekanism:GasTank matches Mekanism:GasTank.
+Found ItemStack Mekanism:GasTank. 1xtile.GasTank@0
+override called. Params: Mekanism, *PlasticBlock, 0
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:GlowPlasticBlock.
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:PlasticBlock.
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:ReinforcedPlasticBlock.
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:RoadPlasticBlock.
+Regex match found! Mekanism:*PlasticBlock matches Mekanism:SlickPlasticBlock.
+Found ItemStack Mekanism:GlowPlasticBlock. 64xtile.GlowPlasticBlock@0
+Found ItemStack Mekanism:PlasticBlock. 64xtile.PlasticBlock@0
+Found ItemStack Mekanism:ReinforcedPlasticBlock. 64xtile.ReinforcedPlasticBlock@0
+Found ItemStack Mekanism:RoadPlasticBlock. 64xtile.RoadPlasticBlock@0
+Found ItemStack Mekanism:SlickPlasticBlock. 64xtile.SlickPlasticBlock@0
+override called. Params: Mekanism, Balloon, 0
+Regex match found! Mekanism:Balloon matches Mekanism:Balloon.
+Found ItemStack Mekanism:Balloon. 64xitem.Balloon@0
+override called. Params: Mekanism, GlowPanel, 0
+Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
+Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
+Loading: ForgeMicroblock.js
+getRandomMaterial called. Returned: ImmersiveEngineering:metalDecoration_10
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:metalDecoration_10
+Loading: ExtraUtilities.js
+override called. Params: ExtraUtilities, drum, 0,1
+Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
+Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_4
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:storage_4
+Loading: BuildCraft.js
+getFacadesSize called. Returned: 8236
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1707
+Loading: Bibliocraft.js
+override called. Params: BiblioCraft, *, 0
+Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioBell.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioBorderlessPainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioCase.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioClipboard.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioClock.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioDesk.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioFancyPainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioFancySign.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioFlatPainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioIronLamp.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioIronLantern.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioLabel.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioLamp.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioLantern.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioMapFrames.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioMiddlePainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioPaintPress.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioPaneler.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioPotionShelf.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioRack.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioSeats.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioShelf.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioSimplePainting.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioStuffs.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioSwordPedestal.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioTable.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioTypewriter.
+Regex match found! BiblioCraft:* matches BiblioCraft:BiblioWorkbench.
+Regex match found! BiblioCraft:* matches BiblioCraft:Bibliotheca.
+Regex match found! BiblioCraft:* matches BiblioCraft:BookcaseFilled.
+Regex match found! BiblioCraft:* matches BiblioCraft:Printing Press.
+Regex match found! BiblioCraft:* matches BiblioCraft:Typesetting Machine.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.AtlasBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.AtlasPlate.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioChase.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioClipboard.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioCreativeLock.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioDrill.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioGlasses.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioMapTool.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioRedBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BiblioWayPointCompass.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.BigBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.DeathCompass.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.EnchantedPlate.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.FramingBoard.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.FramingSaw.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.FramingSheet.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.HandDrill.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.PaintingCanvas.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.PlumbLine.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.PrintPlate.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.RecipeBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.SlottedBook.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.StockroomCatalog.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.TesterItem.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack2.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack3.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack4.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.seatBack5.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.tape.
+Regex match found! BiblioCraft:* matches BiblioCraft:item.tapeMeasure.
+Regex match found! BiblioCraft:* matches BiblioCraft:tile.BiblioFramedChest.
+Found ItemStack BiblioCraft:Armor Stand. 64xtile.BiblioArmorStand@0
+Found ItemStack BiblioCraft:BiblioBell. 64xtile.BiblioBell@0
+Found ItemStack BiblioCraft:BiblioBorderlessPainting. 64xtile.BiblioBorderlessPainting@0
+Found ItemStack BiblioCraft:BiblioCase. 64xtile.BiblioCase@0
+Found ItemStack BiblioCraft:BiblioClipboard. 64xtile.BiblioClipboard@0
+Found ItemStack BiblioCraft:BiblioClock. 64xtile.BiblioClock@0
+Found ItemStack BiblioCraft:BiblioDesk. 64xtile.BiblioDesk@0
+Found ItemStack BiblioCraft:BiblioFancyPainting. 64xtile.BiblioFancyPainting@0
+Found ItemStack BiblioCraft:BiblioFancySign. 64xtile.BiblioFancySign@0
+Found ItemStack BiblioCraft:BiblioFlatPainting. 64xtile.BiblioFlatPainting@0
+Found ItemStack BiblioCraft:BiblioIronLamp. 64xtile.BiblioIronLamp@0
+Found ItemStack BiblioCraft:BiblioIronLantern. 64xtile.BiblioIronLantern@0
+Found ItemStack BiblioCraft:BiblioLabel. 64xtile.BiblioLabel@0
+Found ItemStack BiblioCraft:BiblioLamp. 64xtile.BiblioLamp@0
+Found ItemStack BiblioCraft:BiblioLantern. 64xtile.BiblioLantern@0
+Found ItemStack BiblioCraft:BiblioMapFrames. 64xtile.BiblioMapFrames@0
+Found ItemStack BiblioCraft:BiblioMiddlePainting. 64xtile.BiblioMiddlePainting@0
+Found ItemStack BiblioCraft:BiblioPaintPress. 64xtile.BiblioPaintPress@0
+Found ItemStack BiblioCraft:BiblioPaneler. 64xtile.BiblioPaneler@0
+Found ItemStack BiblioCraft:BiblioPotionShelf. 64xtile.BiblioPotionShelf@0
+Found ItemStack BiblioCraft:BiblioRack. 64xtile.BiblioRack@0
+Found ItemStack BiblioCraft:BiblioSeats. 64xtile.BiblioSeats@0
+Found ItemStack BiblioCraft:BiblioShelf. 64xtile.BiblioShelf@0
+Found ItemStack BiblioCraft:BiblioSimplePainting. 64xtile.BiblioSimplePainting@0
+Found ItemStack BiblioCraft:BiblioStuffs. 64xtile.BiblioStuffs@0
+Found ItemStack BiblioCraft:BiblioSwordPedestal. 64xtile.BiblioSwordPedestal@0
+Found ItemStack BiblioCraft:BiblioTable. 64xtile.BiblioTable@0
+Found ItemStack BiblioCraft:BiblioTypewriter. 64xtile.BiblioTypewriter@0
+Found ItemStack BiblioCraft:BiblioWorkbench. 64xtile.BiblioWorkbench@0
+Found ItemStack BiblioCraft:Bibliotheca. 64xtile.BiblioBookcase@0
+Found ItemStack BiblioCraft:BookcaseFilled. 64xtile.BookcaseFilled@0
+Found ItemStack BiblioCraft:Printing Press. 64xtile.BiblioPress@0
+Found ItemStack BiblioCraft:Typesetting Machine. 64xtile.BiblioType@0
+Found ItemStack BiblioCraft:item.AtlasBook. 1xitem.AtlasBook@0
+Found ItemStack BiblioCraft:item.AtlasPlate. 1xitem.AtlasPlate@0
+Found ItemStack BiblioCraft:item.BiblioChase. 64xitem.BiblioChase@0
+Found ItemStack BiblioCraft:item.BiblioClipboard. 1xitem.BiblioClipboard@0
+Found ItemStack BiblioCraft:item.BiblioCreativeLock. 1xitem.BiblioCreativeLock@0
+Found ItemStack BiblioCraft:item.BiblioDrill. 1xitem.BiblioDrill@0
+Found ItemStack BiblioCraft:item.BiblioGlasses. 1xitem.BiblioGlasses@0
+Found ItemStack BiblioCraft:item.BiblioMapTool. 1xitem.BiblioMapTool@0
+Found ItemStack BiblioCraft:item.BiblioRedBook. 64xitem.BiblioRedBook@0
+Found ItemStack BiblioCraft:item.BiblioWayPointCompass. 1xitem.BiblioWayPointCompass@0
+Found ItemStack BiblioCraft:item.BigBook. 1xitem.BigBook@0
+Found ItemStack BiblioCraft:item.DeathCompass. 64xitem.DeathCompass@0
+Found ItemStack BiblioCraft:item.EnchantedPlate. 1xitem.EnchantedPlate@0
+Found ItemStack BiblioCraft:item.FramingBoard. 64xitem.FramingBoard@0
+Found ItemStack BiblioCraft:item.FramingSaw. 1xitem.FramingSaw@0
+Found ItemStack BiblioCraft:item.FramingSheet. 64xitem.FramingSheet@0
+Found ItemStack BiblioCraft:item.HandDrill. 1xitem.HandDrill@0
+Found ItemStack BiblioCraft:item.PaintingCanvas. 64xitem.PaintingCanvas@0
+Found ItemStack BiblioCraft:item.PlumbLine. 1xitem.PlumbLine@0
+Found ItemStack BiblioCraft:item.PrintPlate. 1xitem.PrintPlate@0
+Found ItemStack BiblioCraft:item.RecipeBook. 1xitem.RecipeBook@0
+Found ItemStack BiblioCraft:item.SlottedBook. 1xitem.SlottedBook@0
+Found ItemStack BiblioCraft:item.StockroomCatalog. 1xitem.StockroomCatalog@0
+Found ItemStack BiblioCraft:item.TesterItem. 1xitem.TesterItem@0
+Found ItemStack BiblioCraft:item.seatBack. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.seatBack2. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.seatBack3. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.seatBack4. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.seatBack5. 64xitem.seatBack@0
+Found ItemStack BiblioCraft:item.tape. 64xitem.tape@0
+Found ItemStack BiblioCraft:item.tapeMeasure. 1xitem.tapeMeasure@0
+Found ItemStack BiblioCraft:tile.BiblioFramedChest. 64xtile.BiblioFramedChest@0
+Loading: AppliedEnergistics2.js
+getFacadeItem called. Returned: appliedenergistics2:item.ItemFacade
+getSubTypes called.
+getNumberOfTypes called. Returned: 5601
+override called. Params: appliedenergistics2, item.ItemFacade, 2241
+Regex match found! appliedenergistics2:item.ItemFacade matches appliedenergistics2:item.ItemFacade.
+Found ItemStack appliedenergistics2:item.ItemFacade. 64xitem.appliedenergistics2.ItemFacade@0
+Loading: Tcon.js
+override called. Params: TConstruct, tool*, 0
+Regex match found! TConstruct:tool* matches TConstruct:toolRod.
+Regex match found! TConstruct:tool* matches TConstruct:toolShard.
+Found ItemStack TConstruct:toolRod. 64xitem.tconstruct.ToolRod@0
+Found ItemStack TConstruct:toolShard. 64xitem.tconstruct.ToolShard@0
+override called. Params: TConstruct, binding, 0
+Regex match found! TConstruct:binding matches TConstruct:binding.
+Found ItemStack TConstruct:binding. 64xitem.tconstruct.Binding@0
+override called. Params: TConstruct, scytheBlade, 0
+Regex match found! TConstruct:scytheBlade matches TConstruct:scytheBlade.
+Found ItemStack TConstruct:scytheBlade. 64xitem.tconstruct.ScytheHead@0
+Loading: MFR.js
+override called. Params: MineFactoryReloaded, tile.mfr.stainedglass.block, 0
+hide called. Params: MineFactoryReloaded:fluid.mfr.liquid.milk.still, 0
+override called. Params: MineFactoryReloaded, tile.mfr.stainedglass.pane, 0
+override called. Params: MineFactoryReloaded, tile.mfr.conveyor, 0

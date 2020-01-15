@@ -1,0 +1,107 @@
+{"data":
+	[
+		{
+                "name": "temperioessence",           
+                "maxStackSize": 64,
+                "burnTime": 0,
+			    "rarity": "epic"
+            },
+			{
+                "name": "infinity_star",           
+                "maxStackSize": 64,
+                "burnTime": 0,
+				"rarity": "epic",
+				"enchanted": true
+            },
+			{
+                "name": "demonsteel1",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel2",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel3",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel4",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel5",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel6",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel7",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel8",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel9",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel10",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+                "name": "demonsteel11",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+				"name": "nether_star_essence",
+				"maxStackSize": 64,
+				"burnTime":0
+			},
+			{
+                "name": "chaosingot",           
+                "maxStackSize": 64,
+				"burnTime": 0
+            },
+			{
+				"name": "chaoscatalyst",
+				"maxStackSize": 64,
+				"burnTime": 0
+			},
+			{
+				"name": "electrotine_essence",
+				"maxStackSize": 64,
+				"burnTime":0
+			},
+						{
+				"name": "thorium_rod",
+				"maxStackSize": 64,
+				"burnTime":0
+			},
+						{
+				"name": "uranium_rod",
+				"maxStackSize": 64,
+				"burnTime":0
+			},
+					{
+				"name": "minedollar",
+				"maxStackSize": 64,
+				"burnTime":0
+			}
+	]
+}

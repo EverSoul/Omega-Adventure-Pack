@@ -1,0 +1,32 @@
+#biomes = PLAINS, WASTELAND, FOREST, SANDY, SWAMP
+biomes = PLAINS, WASTELAND, FOREST, SWAMP
+
+#chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 40
+
+#mob: defines the mob spawned in that dungeon
+mob = default
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 5
+
+#Builder allows you to choose what builder does the dungeon use
+#templateSurface Will try to find the highest position to spawn A schematic
+builder = templateSurface
+
+
+#Special data for templateSurface
+
+#folder: the folder containing the templates
+folder = Building/village
+
+#underGroundOffset: how many block will be used under the ground.
+underGroundOffset = 0
+
+#supportStructure: Generates a plateau under the dungeon using the specified blocks
+supportStructure = true
+structureBlock = @biome_filler
+structureTopBlock = @biome_top
+

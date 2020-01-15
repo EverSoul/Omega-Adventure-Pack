@@ -1,0 +1,21 @@
+{
+  "_name": "aether:skyrootLadder",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 0.4,
+    "resistance": 2.0,
+    "sound": "ladder",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "axe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

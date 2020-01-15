@@ -1,0 +1,16 @@
+{
+  "_name": "OreSpawn:OreSpawn_CrystalLeaves2",
+  "stats": {
+    "opacity": 1,
+    "brightness": 0,
+    "hardness": 0.25,
+    "resistance": 1.25,
+    "sound": "<unknown>",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

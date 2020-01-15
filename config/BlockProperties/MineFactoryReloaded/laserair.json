@@ -1,0 +1,16 @@
+{
+  "_name": "MineFactoryReloaded:laserair",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": -1.0,
+    "resistance": Infinity,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

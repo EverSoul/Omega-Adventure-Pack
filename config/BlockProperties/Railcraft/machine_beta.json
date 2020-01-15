@@ -1,0 +1,20 @@
+{
+  "_name": "Railcraft:machine.beta",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 13.5,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

@@ -1,0 +1,16 @@
+{
+  "_name": "ExtraUtilities:color_obsidian",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 50.0,
+    "resistance": 18000.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

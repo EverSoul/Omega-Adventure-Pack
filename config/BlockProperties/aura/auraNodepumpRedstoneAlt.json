@@ -1,0 +1,20 @@
+{
+  "_name": "aura:auraNodepumpRedstoneAlt",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 2.0,
+    "resistance": 10.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe"
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

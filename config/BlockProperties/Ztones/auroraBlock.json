@@ -1,0 +1,16 @@
+{
+  "_name": "Ztones:auroraBlock",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 1.1,
+    "resistance": 36.0,
+    "sound": "snow",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

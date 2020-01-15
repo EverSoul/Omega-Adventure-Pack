@@ -1,0 +1,16 @@
+{
+  "_name": "LightTweaks:glowingstonebrick",
+  "stats": {
+    "opacity": 0,
+    "brightness": 15,
+    "hardness": 1.5,
+    "resistance": 30.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

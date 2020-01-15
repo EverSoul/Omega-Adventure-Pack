@@ -1,0 +1,20 @@
+{
+  "_name": "aether:tile.skyrootDoubleSlab",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 2.0,
+    "resistance": 10.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

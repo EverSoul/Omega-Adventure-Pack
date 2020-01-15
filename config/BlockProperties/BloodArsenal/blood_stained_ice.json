@@ -1,0 +1,16 @@
+{
+  "_name": "BloodArsenal:blood_stained_ice",
+  "stats": {
+    "opacity": 3,
+    "brightness": 0,
+    "hardness": 1.0,
+    "resistance": 6.0,
+    "sound": "glass",
+    "slipperiness": 0.99,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

@@ -1,0 +1,16 @@
+{
+  "_name": "ThermalExpansion:Machine",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 15.0,
+    "resistance": 75.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

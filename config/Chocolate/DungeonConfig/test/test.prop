@@ -1,0 +1,44 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = Plains, Forest, Hell, Desert
+#Will try to find the highest position to spawn, better avoid any biome with hills
+#Needs at least 20 blocks underground, so it not recommended to use in biomes with height lower than 25
+
+#biomes = none
+biomes = none
+
+#chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 0
+
+#mob: defines the mob spawned in that dungeon
+mob = default
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 0
+
+#set this to true if you want this dungeon to spawn only once per world
+unique = false
+
+#Builder allows you to choose what builder does the dungeon use
+builder = templateFloating
+
+#Special data for templateFloating
+
+#folder: the folder containing the templates
+folder = DungeonConfig/Building/export
+
+#Builder config
+posY = 64
+
+#sorrouns the schematic with a cave, if cave height is lesser than 0 schematic height will be used instead
+emptyCave = true
+caveBlock = minecraft:air
+caveHeight = -1
+caveY = 0
+borderWidth = 2
+
+#supportStructure: Generates a plateau under the schematic using the specified blocks
+supportStructure = false
+structureBlock = @biome_filler
+structureTopBlock = @biome_top

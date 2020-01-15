@@ -1,0 +1,16 @@
+{
+  "_name": "Aroma1997sDimension:aromicPortal",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 500.0,
+    "resistance": 2500.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

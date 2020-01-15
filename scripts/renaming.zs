@@ -1,0 +1,1 @@
+<OreSpawn:OreSpawn_DuctTapeItem>.displayName = "Flex Tape";

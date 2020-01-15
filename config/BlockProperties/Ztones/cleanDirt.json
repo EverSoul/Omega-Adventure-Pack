@@ -1,0 +1,21 @@
+{
+  "_name": "Ztones:cleanDirt",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 0.3,
+    "resistance": 45.0,
+    "sound": "grass",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "shovel",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

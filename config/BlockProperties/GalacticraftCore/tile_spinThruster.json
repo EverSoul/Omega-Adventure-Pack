@@ -1,0 +1,16 @@
+{
+  "_name": "GalacticraftCore:tile.spinThruster",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 0.1,
+    "resistance": 7.5,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

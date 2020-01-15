@@ -1,0 +1,16 @@
+{
+  "_name": "BloodArsenal:life_infuser",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 6.0,
+    "resistance": 36.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

@@ -1,0 +1,21 @@
+{
+  "_name": "openmodularturrets:hardWallTierFive",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 80.0,
+    "resistance": 400.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 3
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

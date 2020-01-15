@@ -1,0 +1,21 @@
+{
+  "_name": "aether:berryBush",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 1.0,
+    "resistance": 5.0,
+    "sound": "grass",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "sword",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

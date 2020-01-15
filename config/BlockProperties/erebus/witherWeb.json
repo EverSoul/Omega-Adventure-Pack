@@ -1,0 +1,21 @@
+{
+  "_name": "erebus:witherWeb",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 4.0,
+    "resistance": 20.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "shears",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

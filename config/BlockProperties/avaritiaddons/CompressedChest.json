@@ -1,0 +1,21 @@
+{
+  "_name": "avaritiaddons:CompressedChest",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 5.0,
+    "resistance": 25.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "axe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

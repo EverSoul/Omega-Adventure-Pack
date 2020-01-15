@@ -1,0 +1,47 @@
+{
+  "_name": "GalacticraftCore:tile.wallGC",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 1.5,
+    "resistance": 2.5,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 1,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 2,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 3,
+        "tool": "pickaxe",
+        "level": 3
+      },
+      {
+        "_meta": 4,
+        "tool": "pickaxe",
+        "level": 0
+      },
+      {
+        "_meta": 5,
+        "tool": "pickaxe",
+        "level": 3
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

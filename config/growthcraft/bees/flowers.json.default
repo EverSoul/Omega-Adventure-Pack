@@ -1,0 +1,45 @@
+{
+  "comment": "",
+  "data": [
+    {
+      "comment": "",
+      "entry_type": "generic",
+      "block": {
+        "comment": "tile.flower2.name",
+        "mod_id": "minecraft",
+        "name": "red_flower",
+        "meta": 32767
+      }
+    },
+    {
+      "comment": "",
+      "entry_type": "generic",
+      "block": {
+        "comment": "tile.flower1.name",
+        "mod_id": "minecraft",
+        "name": "yellow_flower",
+        "meta": 32767
+      }
+    },
+    {
+      "comment": "BiomesOPlenty flowers require a forced entry, in order for it to be placed by the bee box spawning.",
+      "entry_type": "forced",
+      "block": {
+        "comment": "",
+        "mod_id": "BiomesOPlenty",
+        "name": "flowers",
+        "meta": 32767
+      }
+    },
+    {
+      "comment": "BiomesOPlenty flowers require a forced entry, in order for it to be placed by the bee box spawning.",
+      "entry_type": "forced",
+      "block": {
+        "comment": "",
+        "mod_id": "BiomesOPlenty",
+        "name": "flowers2",
+        "meta": 32767
+      }
+    }
+  ]
+}

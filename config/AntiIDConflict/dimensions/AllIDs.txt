@@ -1,0 +1,201 @@
+-100 is Occupied by: Underdark, Provider: (id: -100, class: class com.rwtema.extrautils.worldgen.Underdark.WorldProviderUnderdark)
+-99 is Avaible
+-98 is Avaible
+-97 is Avaible
+-96 is Avaible
+-95 is Avaible
+-94 is Avaible
+-93 is Avaible
+-92 is Avaible
+-91 is Avaible
+-90 is Occupied by: The Dreadlands, Provider: (id: -90, class: class com.shinoow.abyssalcraft.common.world.WorldProviderDreadlands)
+-89 is Occupied by: The Dark Realm, Provider: (id: -89, class: class com.shinoow.abyssalcraft.common.world.WorldProviderDarkRealm)
+-88 is Occupied by: The Abyssal Wasteland, Provider: (id: -88, class: class com.shinoow.abyssalcraft.common.world.WorldProviderAbyss)
+-87 is Occupied by: Omothol, Provider: (id: -87, class: class com.shinoow.abyssalcraft.common.world.WorldProviderOmothol)
+-86 is Avaible
+-85 is Avaible
+-84 is Avaible
+-83 is Avaible
+-82 is Avaible
+-81 is Avaible
+-80 is Avaible
+-79 is Avaible
+-78 is Avaible
+-77 is Avaible
+-76 is Avaible
+-75 is Occupied by: Outer Lands, Provider: (id: -75, class: class makeo.gadomancy.common.utils.world.WorldProviderTCEldrich)
+-74 is Avaible
+-73 is Avaible
+-72 is Avaible
+-71 is Avaible
+-70 is Avaible
+-69 is Avaible
+-68 is Avaible
+-67 is Avaible
+-66 is Avaible
+-65 is Avaible
+-64 is Avaible
+-63 is Avaible
+-62 is Avaible
+-61 is Avaible
+-60 is Avaible
+-59 is Avaible
+-58 is Avaible
+-57 is Avaible
+-56 is Avaible
+-55 is Avaible
+-54 is Avaible
+-53 is Avaible
+-52 is Avaible
+-51 is Avaible
+-50 is Avaible
+-49 is Avaible
+-48 is Avaible
+-47 is Avaible
+-46 is Avaible
+-45 is Occupied by: Dungeon, Provider: (id: -45, class: class mrcomputerghost.runicdungeons.dim.WorldProviderDungeon)
+-44 is Avaible
+-43 is Avaible
+-42 is Occupied by: The Outer Lands, Provider: (id: -42, class: class thaumcraft.common.lib.world.dim.WorldProviderOuter)
+-41 is Avaible
+-40 is Avaible
+-39 is Occupied by: Mirror, Provider: (id: -39, class: class com.emoniph.witchery.dimension.WorldProviderMirror)
+-38 is Occupied by: Torment, Provider: (id: -38, class: class com.emoniph.witchery.dimension.WorldProviderTorment)
+-37 is Occupied by: Spirit World, Provider: (id: -37, class: class com.emoniph.witchery.dimension.WorldProviderDreamWorld)
+-36 is Avaible
+-35 is Avaible
+-34 is Occupied by: the Ancient Treasure Room, Provider: (id: -34, class: class fossilsarcheology.server.dimension.treasure.WorldProviderTreasure)
+-33 is Avaible
+-32 is Avaible
+-31 is Avaible
+-30 is Avaible
+-29 is Avaible
+-28 is Avaible
+-27 is Avaible
+-26 is Avaible
+-25 is Avaible
+-24 is Avaible
+-23 is Occupied by: Land of Darkness, Provider: (id: -23, class: class fossilsarcheology.server.dimension.anu.WorldProviderAnu)
+-22 is Avaible
+-21 is Avaible
+-20 is Avaible
+-19 is Avaible
+-18 is Avaible
+-17 is Avaible
+-16 is Avaible
+-15 is Avaible
+-14 is Avaible
+-13 is Avaible
+-12 is Avaible
+-11 is Avaible
+-10 is Occupied by: Underworld, Provider: (id: -10, class: class com.LightningCraft.dimensions.LCWorldProviderUnderworld)
+-9 is Occupied by: Bedrock, Provider: (id: -9, class: class thaumic.tinkerer.common.dim.WorldProviderBedrock)
+-8 is Avaible
+-7 is Avaible
+-6 is Avaible
+-5 is Avaible
+-4 is Avaible
+-3 is Avaible
+-2 is Avaible
+-1 is Occupied by: Nether, Provider: (id: -1, class: class net.minecraft.world.WorldProviderHell)
+0 is Occupied by: Overworld, Provider: (id: 0, class: class net.minecraft.world.WorldProviderSurface)
+1 is Occupied by: The End, Provider: (id: 1, class: class net.minecraft.world.WorldProviderEnd)
+2 is Occupied by: Mining World, Provider: (id: 2, class: class aroma1997.world.dimension.WorldProviderMiner)
+3 is Occupied by: Aether, Provider: (id: 3, class: class net.aetherteam.aether.worldgen.WorldProviderAether)
+4 is Occupied by: Dungeons, Provider: (id: 4, class: class net.aetherteam.aether.dungeons.worldgen.WorldProviderDungeons)
+5 is Occupied by: DimensionAbyss, Provider: (id: 5, class: class net.nevermine.dimension.abyss.WorldProviderAB)
+6 is Occupied by: DimensionAncientCavern, Provider: (id: 6, class: class net.nevermine.dimension.ancientcavern.WorldProviderAcv)
+7 is Occupied by: DimensionBarathos, Provider: (id: 7, class: class net.nevermine.dimension.barathos.WorldProviderBt)
+8 is Occupied by: DimensionCandyland, Provider: (id: 8, class: class net.nevermine.dimension.candyland.WorldProviderCd)
+9 is Occupied by: Arcadia, Provider: (id: 9, class: class com.LightningCraft.dimensions.LCWorldProviderHeaven)
+10 is Occupied by: DimensionCeleve, Provider: (id: 10, class: class net.nevermine.dimension.celeve.WorldProviderCl)
+11 is Occupied by: DimensionCreeponia, Provider: (id: 11, class: class net.nevermine.dimension.creeponia.WorldProviderCp)
+12 is Occupied by: DimensionCrystevia, Provider: (id: 12, class: class net.nevermine.dimension.crystevia.WorldProviderCr)
+13 is Occupied by: DimensionDeeplands, Provider: (id: 13, class: class net.nevermine.dimension.deeplands.WorldProviderDp)
+14 is Avaible
+15 is Avaible
+16 is Occupied by: DimensionGreckon, Provider: (id: 16, class: class net.nevermine.dimension.greckon.WorldProviderGk)
+17 is Occupied by: DimensionHaven, Provider: (id: 17, class: class net.nevermine.dimension.haven.WorldProviderHv)
+18 is Occupied by: DimensionImmortallis, Provider: (id: 18, class: class net.nevermine.dimension.immortallis.WorldProviderIm)
+19 is Occupied by: DimensionIromine, Provider: (id: 19, class: class net.nevermine.dimension.iromine.WorldProviderIr)
+20 is Occupied by: DimensionBorean, Provider: (id: 20, class: class net.nevermine.dimension.lborean.WorldProviderLb)
+21 is Occupied by: DimensionLabricon, Provider: (id: 21, class: class net.nevermine.dimension.labricon.WorldProviderLc)
+22 is Occupied by: DimensionLelyetia, Provider: (id: 22, class: class net.nevermine.dimension.lelyetia.WorldProviderLl)
+23 is Occupied by: DimensionLunalus, Provider: (id: 23, class: class net.nevermine.dimension.lunalus.WorldProviderLu)
+24 is Occupied by: DimensionMysterium, Provider: (id: 24, class: class net.nevermine.dimension.mysterium.WorldProviderMy)
+25 is Occupied by: DimensionPrecasia, Provider: (id: 25, class: class net.nevermine.dimension.precasia.WorldProviderPc)
+26 is Occupied by: DimensionRunandor, Provider: (id: 26, class: class net.nevermine.dimension.runandor.WorldProviderRn)
+27 is Occupied by: DimensionShyrelands, Provider: (id: 27, class: class net.nevermine.dimension.shyrelands.WorldProviderSh)
+28 is Occupied by: DimensionVoxponds, Provider: (id: 28, class: class net.nevermine.dimension.voxponds.WorldProviderVp)
+29 is Avaible
+30 is Avaible
+31 is Occupied by: SpectreWorld, Provider: (id: 31, class: class lumien.randomthings.Handler.Spectre.WorldProviderSpectre)
+32 is Occupied by: DimensionDustopia, Provider: (id: 32, class: class net.nevermine.dimension.dustopia.WorldProviderDs)
+33 is Occupied by: DimensionGardencia, Provider: (id: 33, class: class net.nevermine.dimension.gardencia.WorldProviderGd)
+34 is Avaible
+35 is Avaible
+36 is Avaible
+37 is Avaible
+38 is Avaible
+39 is Avaible
+40 is Avaible
+41 is Avaible
+42 is Avaible
+43 is Avaible
+44 is Avaible
+45 is Avaible
+46 is Avaible
+47 is Avaible
+48 is Avaible
+49 is Avaible
+50 is Occupied by: Eden, Provider: (id: 50, class: class net.divinerpg.dimensions.twilight.eden.WorldProviderEden)
+51 is Occupied by: The Wildwood, Provider: (id: 51, class: class net.divinerpg.dimensions.twilight.wildwood.WorldProviderWildwood)
+52 is Occupied by: Apalachia, Provider: (id: 52, class: class net.divinerpg.dimensions.twilight.apalachia.WorldProviderApalachia)
+53 is Occupied by: Skythern, Provider: (id: 53, class: class net.divinerpg.dimensions.twilight.skythern.WorldProviderSkythern)
+54 is Occupied by: Mortum, Provider: (id: 54, class: class net.divinerpg.dimensions.twilight.mortum.WorldProviderMortum)
+55 is Occupied by: Vethea, Provider: (id: 55, class: class net.divinerpg.dimensions.vethea.WorldProviderVethea)
+56 is Occupied by: Arcana, Provider: (id: 56, class: class net.divinerpg.dimensions.arcana.WorldProviderArcana)
+57 is Occupied by: Iceika, Provider: (id: 57, class: class net.divinerpg.dimensions.iceika.WorldProviderIceika)
+58 is Avaible
+59 is Avaible
+60 is Avaible
+61 is Avaible
+62 is Avaible
+63 is Avaible
+64 is Avaible
+65 is Avaible
+66 is Occupied by: Erebus, Provider: (id: 66, class: class erebus.world.WorldProviderErebus)
+67 is Avaible
+68 is Avaible
+69 is Avaible
+70 is Avaible
+71 is Avaible
+72 is Avaible
+73 is Avaible
+74 is Avaible
+75 is Avaible
+76 is Avaible
+77 is Avaible
+78 is Avaible
+79 is Avaible
+80 is Occupied by: Dimension-Utopia, Provider: (id: 80, class: class danger.orespawn.WorldProviderOreSpawn)
+81 is Occupied by: Dimension-Extreme, Provider: (id: 81, class: class danger.orespawn.WorldProviderOreSpawn2)
+82 is Occupied by: Dimension-VillageMania, Provider: (id: 82, class: class danger.orespawn.WorldProviderOreSpawn3)
+83 is Occupied by: Dimension-Islands, Provider: (id: 83, class: class danger.orespawn.WorldProviderOreSpawn4)
+84 is Occupied by: Dimension-Crystal, Provider: (id: 84, class: class danger.orespawn.WorldProviderOreSpawn5)
+85 is Occupied by: Dimension-Chaos, Provider: (id: 85, class: class danger.orespawn.WorldProviderOreSpawn6)
+86 is Avaible
+87 is Avaible
+88 is Avaible
+89 is Avaible
+90 is Avaible
+91 is Avaible
+92 is Avaible
+93 is Avaible
+94 is Avaible
+95 is Avaible
+96 is Avaible
+97 is Avaible
+98 is Avaible
+99 is Avaible
+100 is Avaible

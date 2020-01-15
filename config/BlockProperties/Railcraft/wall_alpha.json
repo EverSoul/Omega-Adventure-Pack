@@ -1,0 +1,96 @@
+{
+  "_name": "Railcraft:wall.alpha",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 30.0,
+    "sound": "<unknown>",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 1,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 2,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 3,
+        "tool": "shovel",
+        "level": 0
+      },
+      {
+        "_meta": 4,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 5,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 6,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 7,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 8,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 9,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 10,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 11,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 12,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 13,
+        "tool": "pickaxe",
+        "level": 2
+      },
+      {
+        "_meta": 14,
+        "tool": "pickaxe",
+        "level": 3
+      },
+      {
+        "_meta": 15,
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

@@ -1,0 +1,21 @@
+{
+  "_name": "rftools:volcanicBlock",
+  "stats": {
+    "opacity": 255,
+    "brightness": 8,
+    "hardness": 20.0,
+    "resistance": 3000.0,
+    "sound": "piston",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

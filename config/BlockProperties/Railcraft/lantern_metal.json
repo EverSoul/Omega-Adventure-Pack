@@ -1,0 +1,21 @@
+{
+  "_name": "Railcraft:lantern.metal",
+  "stats": {
+    "opacity": 0,
+    "brightness": 14,
+    "hardness": 5.0,
+    "resistance": 45.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

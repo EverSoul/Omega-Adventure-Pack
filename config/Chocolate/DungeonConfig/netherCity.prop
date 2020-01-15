@@ -1,0 +1,43 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = Hell
+#Allways spaw at layer 32(top nether lava ayer)
+
+biomes = Hell
+
+#chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 10
+
+
+#mob: defines the mob spawned in that dungeon
+mob = pigzombie
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 3
+
+
+#dimensionID: if set the dungeon will spawn only in the dimension with that id, otherwise it's only spawned in the overworld
+dimensionID = -1
+
+#Builder allows you to choose what builder does the dungeon use
+builder = lavaCity
+
+
+#Special data for netherCity
+#folder: the folder containing the templates
+#floorBlock: block used as floor
+#lavaBlock: block used as lava
+#posY: the height to spawn the building
+#rows: how many rows and building on each row.
+
+folder = DungeonConfig/Building/pigcity
+
+#Nether brick = minecraft:nether_brick
+floorBlock= minecraft:nether_brick
+
+#Stationary lava = minecraft:lava
+lavaBlock= minecraft:lava
+
+posY = 31
+rows = 4

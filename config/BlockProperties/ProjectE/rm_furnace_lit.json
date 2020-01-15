@@ -1,0 +1,15 @@
+{
+  "_name": "ProjectE:rm_furnace_lit",
+  "stats": {
+    "opacity": 255,
+    "brightness": 13,
+    "resistance": 0.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

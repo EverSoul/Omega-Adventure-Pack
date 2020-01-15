@@ -1,0 +1,41 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = Ocean
+#Spawns at layer 63(Overworld water layer)
+
+biomes = *
+
+#chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 0
+
+#mob: defines the mob spawned in that dungeon, if the mob can't be fount the mod will spawn a mob based on distance from spawn
+mob = pirate
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 9
+
+#Builder allows you to choose what builder does the dungeon use
+builder = templateFloating
+dimensionID = 1
+
+#Special data for templateFloating
+
+#folder: the folder containing the templates
+folder = Building/snowCastles
+
+#posY: the height to spawn the building
+posY = 30
+
+
+#supportStructure: Generates a plateau under the dungeon using the specified blocks
+supportStructure = false
+structureBlock = @biome_filler
+structureTopBlock = @biome_top
+
+#sorrouns the schematic with a cave, if cave height is lesser than 0 schematic height will be used instead
+emptyCave = true
+caveBlock = minecraft:end_stone
+caveHeight = 20
+caveY = -10
+borderWidth = 10

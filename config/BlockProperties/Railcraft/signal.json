@@ -1,0 +1,20 @@
+{
+  "_name": "Railcraft:signal",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 150.0,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "crowbar",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

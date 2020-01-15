@@ -1,0 +1,21 @@
+{
+  "_name": "mo:decorative.engine_exhaust_plasma",
+  "stats": {
+    "opacity": 255,
+    "brightness": 15,
+    "hardness": 1.0,
+    "resistance": 3.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

@@ -1,0 +1,15 @@
+{
+  "_name": "GalacticraftMars:tile.telepadFake",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 3.00000003E15,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

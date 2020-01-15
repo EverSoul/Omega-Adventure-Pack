@@ -1,0 +1,16 @@
+{
+  "_name": "powersuits:tile.luxCapacitor",
+  "stats": {
+    "opacity": 0,
+    "brightness": 15,
+    "hardness": 0.05,
+    "resistance": 30.0,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

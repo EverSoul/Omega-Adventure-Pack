@@ -1,0 +1,20 @@
+goldBlock = minecraft:gold_block,1,0,80
+enderPearl = minecraft:ender_pearl,5,0,60
+diamond = minecraft:diamond,4,0,50
+emerald= minecraft:emerald,4,0,30
+goldenApple = minecraft:golden_apple,3,0,20
+
+teleportStone = chocolateQuest:teleportStone,1,0,20
+elementStone = chocolateQuest:elementStone,1,0,10
+potionsBag = chocolateQuest:potionsBag,1,0,10
+musket = chocolateQuest:musket,1,0,10
+staffFire = chocolateQuest:staffFire,1,0,10
+staffLight = chocolateQuest:staffLight,1,0,10
+cursedBone = chocolateQuest:cursedBone,1,0,5
+scouter = chocolateQuest:scouter,1,0,2
+cloudBoots = chocolateQuest:cloudBoots,1,0,2
+spiderHook = chocolateQuest:spiderhook,1,0,2
+rustedSwordAndShield = chocolateQuest:rustedSword,1,0,1
+rustedBigSword = chocolateQuest:rustedBigSword,1,0,1
+rustedDagger = chocolateQuest:rustedDagger,1,0,1
+rustedSpear = chocolateQuest:rustedSpear,1,0,1

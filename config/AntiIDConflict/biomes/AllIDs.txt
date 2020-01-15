@@ -1,0 +1,260 @@
+Total amount of free biome ids: 62
+Total amount of occupied biome ids: 194
+Total amount of conflicted biome ids: 0
+All ids and their position:
+0 is Occupied by Ocean (net.minecraft.world.biome.BiomeGenOcean)
+1 is Occupied by Plains (net.minecraft.world.biome.BiomeGenPlains)
+2 is Occupied by Desert (net.minecraft.world.biome.BiomeGenDesert)
+3 is Occupied by Extreme Hills (net.minecraft.world.biome.BiomeGenHills)
+4 is Occupied by Forest (net.minecraft.world.biome.BiomeGenForest)
+5 is Occupied by Taiga (net.minecraft.world.biome.BiomeGenTaiga)
+6 is Occupied by Swampland (net.minecraft.world.biome.BiomeGenSwamp)
+7 is Occupied by River (net.minecraft.world.biome.BiomeGenRiver)
+8 is Occupied by Hell (net.minecraft.world.biome.BiomeGenHell)
+9 is Occupied by Sky (chylex.hee.world.biome.BiomeGenHardcoreEnd)
+10 is Occupied by FrozenOcean (net.minecraft.world.biome.BiomeGenOcean)
+11 is Occupied by FrozenRiver (net.minecraft.world.biome.BiomeGenRiver)
+12 is Occupied by Ice Plains (net.minecraft.world.biome.BiomeGenSnow)
+13 is Occupied by Ice Mountains (net.minecraft.world.biome.BiomeGenSnow)
+14 is Occupied by MushroomIsland (net.minecraft.world.biome.BiomeGenMushroomIsland)
+15 is Occupied by MushroomIslandShore (net.minecraft.world.biome.BiomeGenMushroomIsland)
+16 is Occupied by Beach (net.minecraft.world.biome.BiomeGenBeach)
+17 is Occupied by DesertHills (net.minecraft.world.biome.BiomeGenDesert)
+18 is Occupied by ForestHills (net.minecraft.world.biome.BiomeGenForest)
+19 is Occupied by TaigaHills (net.minecraft.world.biome.BiomeGenTaiga)
+20 is Occupied by Extreme Hills Edge (net.minecraft.world.biome.BiomeGenHills)
+21 is Occupied by Jungle (net.minecraft.world.biome.BiomeGenJungle)
+22 is Occupied by JungleHills (net.minecraft.world.biome.BiomeGenJungle)
+23 is Occupied by JungleEdge (net.minecraft.world.biome.BiomeGenJungle)
+24 is Occupied by Deep Ocean (net.minecraft.world.biome.BiomeGenOcean)
+25 is Occupied by Stone Beach (net.minecraft.world.biome.BiomeGenStoneBeach)
+26 is Occupied by Cold Beach (net.minecraft.world.biome.BiomeGenBeach)
+27 is Occupied by Birch Forest (net.minecraft.world.biome.BiomeGenForest)
+28 is Occupied by Birch Forest Hills (net.minecraft.world.biome.BiomeGenForest)
+29 is Occupied by Roofed Forest (net.minecraft.world.biome.BiomeGenForest)
+30 is Occupied by Cold Taiga (net.minecraft.world.biome.BiomeGenTaiga)
+31 is Occupied by Cold Taiga Hills (net.minecraft.world.biome.BiomeGenTaiga)
+32 is Occupied by Mega Taiga (net.minecraft.world.biome.BiomeGenTaiga)
+33 is Occupied by Mega Taiga Hills (net.minecraft.world.biome.BiomeGenTaiga)
+34 is Occupied by Extreme Hills+ (net.minecraft.world.biome.BiomeGenHills)
+35 is Occupied by Savanna (net.minecraft.world.biome.BiomeGenSavanna)
+36 is Occupied by Savanna Plateau (net.minecraft.world.biome.BiomeGenSavanna)
+37 is Occupied by Mesa (net.minecraft.world.biome.BiomeGenMesa)
+38 is Occupied by Mesa Plateau F (net.minecraft.world.biome.BiomeGenMesa)
+39 is Occupied by Mesa Plateau (net.minecraft.world.biome.BiomeGenMesa)
+40 is Occupied by Abyssal Void (net.nevermine.dimension.abyss.biome.BiomeGenAbyss)
+41 is Occupied by Abyssal Eyelands (net.nevermine.dimension.abyss.biome.BiomeGenAbyssEye)
+42 is Occupied by Abyssal Shadow Forest (net.nevermine.dimension.abyss.biome.BiomeGenAbyssShadow)
+43 is Occupied by Ancient Cavern (net.nevermine.dimension.ancientcavern.BiomeGenAncientCavern)
+44 is Occupied by Barathos (net.nevermine.dimension.barathos.biome.BiomeGenBarathos)
+45 is Occupied by Alien Forest (net.nevermine.dimension.barathos.biome.BiomeGenBaronForest)
+46 is Occupied by Candyland (net.nevermine.dimension.candyland.biome.BiomeGenCandyland)
+47 is Occupied by Celeve (net.nevermine.dimension.celeve.BiomeGenCeleve)
+48 is Occupied by Chocolate Forest (net.nevermine.dimension.candyland.biome.BiomeGenCandylandChocolate)
+49 is Occupied by Creeponia (net.nevermine.dimension.creeponia.BiomeGenCreeponia)
+50 is Occupied by swamplands (thebetweenlands.world.biomes.BiomeSwampLands)
+51 is Occupied by coarseIslands (thebetweenlands.world.biomes.BiomeCoarseIslands)
+52 is Occupied by deepWaters (thebetweenlands.world.biomes.BiomeDeepWaters)
+53 is Occupied by patchyIslands (thebetweenlands.world.biomes.BiomePatchyIslands)
+54 is Occupied by marsh1 (thebetweenlands.world.biomes.BiomeMarsh)
+55 is Occupied by marsh2 (thebetweenlands.world.biomes.BiomeMarsh)
+56 is Occupied by sludgePlains (thebetweenlands.world.biomes.BiomeSludgePlains)
+57 is Occupied by Crystevia (net.nevermine.dimension.crystevia.BiomeGenCrystevia)
+58 is Occupied by Deeplands Cave (net.nevermine.dimension.deeplands.biome.BiomeGenDeeplands)
+59 is Occupied by Deep Fungal Cave (net.nevermine.dimension.deeplands.biome.BiomeGenDeeplandsFungal)
+60 is Occupied by Deepshine Cave (net.nevermine.dimension.deeplands.biome.BiomeGenDeeplandsShine)
+61 is Occupied by Dustopian Forest (net.nevermine.dimension.dustopia.biome.BiomeGenDustopia)
+62 is Occupied by Dustopian Marsh (net.nevermine.dimension.dustopia.biome.BiomeGenDustopiaMarsh)
+63 is Occupied by Dustopian Plains (net.nevermine.dimension.dustopia.biome.BiomeGenDustopiaPlains)
+64 is Avaible
+65 is Occupied by Gardencia (net.nevermine.dimension.gardencia.biome.BiomeGenGardencia)
+66 is Occupied by Gardencian Fungi (net.nevermine.dimension.gardencia.biome.BiomeGenGardenciaFungal)
+67 is Occupied by Gardencian Marsh (net.nevermine.dimension.gardencia.biome.BiomeGenGardenciaMarsh)
+68 is Occupied by Greckon (net.nevermine.dimension.greckon.biome.BiomeGenGreckon)
+69 is Occupied by Haunted Forest (net.nevermine.dimension.greckon.biome.BiomeGenGreckonForest)
+70 is Occupied by Greckon Skulls (net.nevermine.dimension.greckon.biome.BiomeGenGreckonSkull)
+71 is Occupied by Haven (net.nevermine.dimension.haven.BiomeGenHaven)
+72 is Occupied by Immortallis (net.nevermine.dimension.immortallis.BiomeGenImmortallis)
+73 is Occupied by Iro-Tech Hills (net.nevermine.dimension.iromine.biome.BiomeGenIromineTech)
+74 is Occupied by Mining Biome (aroma1997.world.dimension.BiomeGenMining)
+75 is Occupied by Elysian Fields (erebus.world.biomes.BiomeElysianFields)
+76 is Occupied by Elysian Forest (erebus.world.biomes.BiomeElysianFields$BiomeElysianForest)
+77 is Occupied by Fungal Forest (erebus.world.biomes.BiomeFungalForest)
+78 is Occupied by Submerged Swamp (erebus.world.biomes.BiomeSubmergedSwamp)
+79 is Occupied by Subterranean Savannah (erebus.world.biomes.BiomeSubterraneanSavannah)
+80 is Occupied by Ulterior Outback (erebus.world.biomes.BiomeUlteriorOutback)
+81 is Occupied by Undergound Jungle (erebus.world.biomes.BiomeUndergroundJungle)
+82 is Occupied by Volcanic Desert (erebus.world.biomes.BiomeVolcanicDesert)
+83 is Occupied by Golden Hills (net.nevermine.dimension.iromine.biome.BiomeGenIromine)
+84 is Occupied by Borean Bubble Forest (net.nevermine.dimension.lborean.biome.BiomeGenBoreanBubble)
+85 is Occupied by Coral Forest (net.nevermine.dimension.lborean.biome.BiomeGenBoreanForest)
+86 is Occupied by Arcadia (com.LightningCraft.biomes.BiomeGenHeaven)
+87 is Occupied by Underworld (com.LightningCraft.biomes.BiomeGenUnderworld)
+88 is Occupied by Abyssal Wastelands (com.shinoow.abyssalcraft.common.world.biome.BiomeGenAbywasteland)
+89 is Occupied by L'Borean Reds (net.nevermine.dimension.lborean.biome.BiomeGenBoreanRed)
+90 is Occupied by Borean Ponds (net.nevermine.dimension.lborean.biome.BiomeGenBorean)
+91 is Occupied by Vox Ponds (net.nevermine.dimension.labricon.BiomeGenLabricon)
+92 is Occupied by Lelyetia (net.nevermine.dimension.lelyetia.BiomeGenLelyetia)
+93 is Occupied by Coralium Infested Swamp (com.shinoow.abyssalcraft.common.world.biome.BiomeGenCorSwamp)
+94 is Occupied by Dark Realm (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarkRealm)
+95 is Occupied by Darklands (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklands)
+96 is Occupied by Darklands Forest (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsForest)
+97 is Occupied by Lunalus (net.nevermine.dimension.lunalus.BiomeGenLunalus)
+98 is Occupied by Marshmallow Hills (net.nevermine.dimension.candyland.biome.BiomeGenCandylandMarshmallow)
+99 is Occupied by Mysterium (net.nevermine.dimension.mysterium.BiomeGenMysterium)
+100 is Occupied by WitchwoodForest (am2.worldgen.BiomeWitchwoodForest)
+101 is Occupied by Darklands Highland (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsHills)
+102 is Occupied by Darklands Mountains (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsMountains)
+103 is Occupied by Precasian Forest (net.nevermine.dimension.precasia.biome.BiomeGenPrecasia)
+104 is Occupied by Precasian Desert (net.nevermine.dimension.precasia.biome.BiomeGenPrecasiaDesert)
+105 is Occupied by Degraded (evilcraft.world.biome.BiomeDegraded)
+106 is Occupied by Precasian Field (net.nevermine.dimension.precasia.biome.BiomeGenPrecasiaField)
+107 is Occupied by Tall Precasian Forest (net.nevermine.dimension.precasia.biome.BiomeGenPrecasiaTall)
+108 is Occupied by Rock Candy Hills (net.nevermine.dimension.candyland.biome.BiomeGenCandylandRock)
+109 is Occupied by Rocky Mazus (net.nevermine.dimension.barathos.biome.BiomeGenBaronMaze)
+110 is Occupied by Runandor (net.nevermine.dimension.runandor.BiomeGenRunandor)
+111 is Occupied by Shyrelands (net.nevermine.dimension.shyrelands.BiomeGenShyrelands)
+112 is Occupied by Silvro Hills (net.nevermine.dimension.iromine.biome.BiomeGenIromineSilver)
+113 is Occupied by Vox Ponds (net.nevermine.dimension.voxponds.BiomeGenVoxponds)
+114 is Occupied by Darklands Plains (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsPlains)
+115 is Occupied by Dreadlands (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDreadlands)
+116 is Occupied by Dreadlands Forest (com.shinoow.abyssalcraft.common.world.biome.BiomeGenForestDreadlands)
+117 is Occupied by Dreadlands Mountains (com.shinoow.abyssalcraft.common.world.biome.BiomeGenMountainDreadlands)
+118 is Occupied by Omothol (com.shinoow.abyssalcraft.common.world.biome.BiomeGenOmothol)
+119 is Occupied by Purified Dreadlands (com.shinoow.abyssalcraft.common.world.biome.BiomeGenAbyDreadlands)
+120 is Avaible
+121 is Avaible
+122 is Avaible
+123 is Avaible
+124 is Occupied by Storage Cell (appeng.spatial.BiomeGenStorage)
+125 is Avaible
+126 is Avaible
+127 is Avaible
+128 is Avaible
+129 is Occupied by Sunflower Plains (net.minecraft.world.biome.BiomeGenPlains)
+130 is Occupied by Desert M (net.minecraft.world.biome.BiomeGenDesert)
+131 is Occupied by Extreme Hills M (net.minecraft.world.biome.BiomeGenHills)
+132 is Occupied by Flower Forest (net.minecraft.world.biome.BiomeGenForest)
+133 is Occupied by Taiga M (net.minecraft.world.biome.BiomeGenTaiga)
+134 is Occupied by Swampland M (net.minecraft.world.biome.BiomeGenSwamp)
+135 is Avaible
+136 is Avaible
+137 is Avaible
+138 is Avaible
+139 is Avaible
+140 is Occupied by Ice Plains Spikes (net.minecraft.world.biome.BiomeGenSnow)
+141 is Occupied by Tainted Land (thaumcraft.common.lib.world.biomes.BiomeGenTaint)
+142 is Occupied by Magical Forest (thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest)
+143 is Avaible
+144 is Avaible
+145 is Avaible
+146 is Avaible
+147 is Occupied by biome.treasure.name (fossilsarcheology.server.biome.FossilsBiome)
+148 is Occupied by Land of Darkness (fossilsarcheology.server.biome.FossilsBiome)
+149 is Occupied by Jungle M (net.minecraft.world.biome.BiomeGenJungle)
+150 is Avaible
+151 is Occupied by JungleEdge M (net.minecraft.world.biome.BiomeGenJungle)
+152 is Avaible
+153 is Avaible
+154 is Occupied by Eerie (thaumcraft.common.lib.world.biomes.BiomeGenEerie)
+155 is Occupied by Birch Forest M (net.minecraft.world.biome.BiomeGenForest)
+156 is Occupied by Birch Forest Hills M (net.minecraft.world.biome.BiomeGenForest)
+157 is Occupied by Roofed Forest M (net.minecraft.world.biome.BiomeGenForest)
+158 is Occupied by Cold Taiga M (net.minecraft.world.biome.BiomeGenTaiga)
+159 is Occupied by Eldritch (thaumcraft.common.lib.world.biomes.BiomeGenEldritch)
+160 is Occupied by Mega Spruce Taiga (net.minecraft.world.biome.BiomeGenTaiga)
+161 is Occupied by Mega Spruce Taiga (net.minecraft.world.biome.BiomeGenTaiga)
+162 is Occupied by Extreme Hills+ M (net.minecraft.world.biome.BiomeGenHills)
+163 is Occupied by Savanna M (net.minecraft.world.biome.BiomeGenSavanna)
+164 is Occupied by Savanna Plateau M (net.minecraft.world.biome.BiomeGenSavanna)
+165 is Occupied by Mesa (Bryce) (net.minecraft.world.biome.BiomeGenMesa)
+166 is Occupied by Mesa Plateau F M (net.minecraft.world.biome.BiomeGenMesa)
+167 is Occupied by Mesa Plateau M (net.minecraft.world.biome.BiomeGenMesa)
+168 is Avaible
+169 is Avaible
+170 is Avaible
+171 is Avaible
+172 is Avaible
+173 is Avaible
+174 is Avaible
+175 is Avaible
+176 is Avaible
+177 is Avaible
+178 is Occupied by swamplands M (thebetweenlands.world.biomes.BiomeSwampLands)
+179 is Occupied by coarseIslands M (thebetweenlands.world.biomes.BiomeCoarseIslands)
+180 is Occupied by deepWaters M (thebetweenlands.world.biomes.BiomeDeepWaters)
+181 is Occupied by patchyIslands M (thebetweenlands.world.biomes.BiomePatchyIslands)
+182 is Occupied by marsh1 M (thebetweenlands.world.biomes.BiomeMarsh)
+183 is Occupied by marsh2 M (thebetweenlands.world.biomes.BiomeMarsh)
+184 is Occupied by sludgePlains M (thebetweenlands.world.biomes.BiomeSludgePlains)
+185 is Occupied by moon (micdoodle8.mods.galacticraft.core.world.gen.BiomeGenFlatMoon)
+186 is Occupied by marsFlat (micdoodle8.mods.galacticraft.planets.mars.world.gen.BiomeGenFlatMars)
+187 is Occupied by asteroids (micdoodle8.mods.galacticraft.planets.asteroids.world.gen.BiomeGenBaseAsteroids)
+188 is Occupied by space (micdoodle8.mods.galacticraft.core.world.gen.BiomeGenBaseOrbit)
+189 is Avaible
+190 is Avaible
+191 is Occupied by Dark Forest (twilightforest.biomes.TFBiomeDarkForest)
+192 is Occupied by Deep Mushroom Forest (twilightforest.biomes.TFBiomeDeepMushrooms)
+193 is Occupied by Twilight Forest (twilightforest.biomes.TFBiomeTwilightForest)
+194 is Occupied by Dense Twilight Forest (twilightforest.biomes.TFBiomeTwilightForestVariant)
+195 is Occupied by Twilight Clearing (twilightforest.biomes.TFBiomeClearing)
+196 is Avaible
+197 is Avaible
+198 is Avaible
+199 is Avaible
+200 is Avaible
+201 is Avaible
+202 is Avaible
+203 is Occupied by Elysian Fields M (erebus.world.biomes.BiomeElysianFields)
+204 is Occupied by Elysian Forest M (erebus.world.biomes.BiomeElysianFields$BiomeElysianForest)
+205 is Occupied by Fungal Forest M (erebus.world.biomes.BiomeFungalForest)
+206 is Occupied by Submerged Swamp M (erebus.world.biomes.BiomeSubmergedSwamp)
+207 is Occupied by Subterranean Savannah M (erebus.world.biomes.BiomeSubterraneanSavannah)
+208 is Occupied by Ulterior Outback M (erebus.world.biomes.BiomeUlteriorOutback)
+209 is Occupied by Undergound Jungle M (erebus.world.biomes.BiomeUndergroundJungle)
+210 is Occupied by Volcanic Desert M (erebus.world.biomes.BiomeVolcanicDesert)
+211 is Avaible
+212 is Avaible
+213 is Avaible
+214 is Avaible
+215 is Avaible
+216 is Avaible
+217 is Avaible
+218 is Avaible
+219 is Avaible
+220 is Avaible
+221 is Avaible
+222 is Avaible
+223 is Avaible
+224 is Avaible
+225 is Avaible
+226 is Avaible
+227 is Avaible
+228 is Occupied by Aether (net.aetherteam.aether.worldgen.BiomeGenAether)
+229 is Avaible
+230 is Avaible
+231 is Avaible
+232 is Avaible
+233 is Occupied by Enchanted Forest (twilightforest.biomes.TFBiomeEnchantedForest)
+234 is Occupied by Fire Swamp (twilightforest.biomes.TFBiomeFireSwamp)
+235 is Occupied by Twilight Glacier (twilightforest.biomes.TFBiomeGlacier)
+236 is Occupied by Twilight Highlands (twilightforest.biomes.TFBiomeHighlands)
+237 is Occupied by Highlands Center (twilightforest.biomes.TFBiomeFinalPlateau)
+238 is Occupied by Twilight Lake (twilightforest.biomes.TFBiomeTwilightLake)
+239 is Occupied by Firefly Forest (twilightforest.biomes.TFBiomeFireflyForest)
+240 is Occupied by Mushroom Forest (twilightforest.biomes.TFBiomeMushrooms)
+241 is Occupied by Oak Savanna (twilightforest.biomes.TFBiomeOakSavanna)
+242 is Occupied by Snowy Forest (twilightforest.biomes.TFBiomeSnow)
+243 is Occupied by Twilight Stream (twilightforest.biomes.TFBiomeStream)
+244 is Occupied by Twilight Swamp (twilightforest.biomes.TFBiomeSwamp)
+245 is Occupied by Thornlands (twilightforest.biomes.TFBiomeThornlands)
+246 is Occupied by Dark Forest Center (twilightforest.biomes.TFBiomeDarkForestCenter)
+247 is Avaible
+248 is Occupied by Apalachia (net.divinerpg.dimensions.twilight.apalachia.BiomeGenApalachia)
+249 is Occupied by Arcana (net.divinerpg.dimensions.arcana.BiomeGenArcana)
+250 is Occupied by Eden (net.divinerpg.dimensions.twilight.eden.BiomeGenEden)
+251 is Occupied by Iceika (net.divinerpg.dimensions.iceika.BiomeGenIceika)
+252 is Occupied by Mortum (net.divinerpg.dimensions.twilight.mortum.BiomeGenMortum)
+253 is Occupied by Skythern (net.divinerpg.dimensions.twilight.skythern.BiomeGenSkythern)
+254 is Occupied by Arksiane (net.divinerpg.dimensions.vethea.BiomeGenVethea)
+255 is Occupied by Wildwood (net.divinerpg.dimensions.twilight.wildwood.BiomeGenWildwood)

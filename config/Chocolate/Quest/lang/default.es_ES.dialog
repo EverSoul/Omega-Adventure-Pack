@@ -1,0 +1,530 @@
+ï»¿@name:witchBone
+@prompt:Puedo ayudarte?
+Si, estoy buscando 16 [minecraft:bone]
+#####
+@name:test
+@prompt:CÃ¡racteres especiales[minecraft:emerald]
+Mi nombre es @name
+Tu nombre es @sp
+Esto [minecraft:diamond] es un diamante
+Esto [minecraft:stone] es un bloque de piedra
+#####
+@name:stare
+@prompt:...
+(@name te mira fijamente)
+.... .... ....
+#####
+@name:setReunionPoint
+@prompt:Nos reuniremos aqui.
+Si seÃ±or!, nos reuniremos aqui si me pierdo.
+#####
+@name:give1emerald
+@prompt:Dar 1 [minecraft:emerald]
+Gracias!
+#####
+@name:huntedMonsterArena
+@prompt:Arena completada!
+Felicidades!
+Ahora puedes participar en el siguiente nivel.
+#####
+@name:needARest
+@prompt:Necesito descansar
+Puedes dormir en una de las habitaciones de arriba.
+Es gratis si nos puedes ofrecer proteccion contra las
+hordas de la noche.
+Aceptamos donaciones si tienes esmeraldas de sobra.
+#####
+@name:inqGiantHunt
+@prompt:Algun monstruo esta noche?
+Un increible zombie gigante ha sido visto al oeste.
+Andate con ojo si te acercas alli.
+#####
+@name:witchDoingHere
+@prompt:Que haceis aqui?
+Nos alejamos de la civilizacion para experimentar con magia
+negra y pociones potencialmente peligrosas.
+Como puedes ver dominamos el arte de controlar a los esqueletos
+y estamos investigando como ir un poco mas lejos.
+#####
+@name:waitHere
+@prompt:Espera aqui
+No me movere de aqui
+#####
+@name:orcLostSword
+@prompt:Necesitas algo?
+Mi lanza[chocolateQuest:spearDiamond], no puedo rrecordar donde la puse.
+El jefe dice que no puedo patrrullar sin ella, poco ssabe 
+de que ssomos capaces los Orrkos.
+#####
+@name:takeIt
+@prompt:Toma
+Gracias!
+#####
+@name:inqSpecterHunt
+@prompt:inqSpecterHunt
+Un grupo de espectros ha sido visto esta noche al
+sur, ve a explorar el area y si te deshaces de ellos 
+te recompensare.
+#####
+@name:helloArena
+@prompt:helloArena
+Hola bienvenido a la arena!
+Quieres participar?
+#####
+@name:imYourMaster
+@prompt:Yo soy tu amo
+(@name te mira fijamente)
+AMOOOO...
+#####
+@name:mercenaryGood
+@prompt:Que haces aqui?
+Estoy buscando un equipo, estas reclutando gente?
+Puedo ayudarte en tus viajes por solo 48 [minecraft:emerald]
+#####
+@name:give20emerald
+@prompt:Dar 20 [minecraft:emerald]
+Increible, mil gracias!
+Toma unas cuantas pociones!
+#####
+@name:inqZombieHunt
+@prompt:Alun no-muerto esta noche?
+Se ha divisado un grupo de zombies al este.
+Ve a echar un ojo si estas interesado, pero andate
+con cuidado, estan bien equipados.
+#####
+@name:helloMarket
+@prompt:helloMarket
+Hola viajero, bienvenido al mercado.
+Intenta pasarlo bien y no causes problemas.
+#####
+@name:recieveSkelly
+@prompt:Toma tus materiales
+Encontraras tu "Skellybest" en la entrada.
+#####
+@name:mercenaryCheap
+@prompt:Que haces aqui?
+Estoy buscando un poco de compaÃ±ia, estas reclutando gente?
+Podria ayudarte en tus aventuras por solo 10 [minecraft:emerald]
+#####
+@name:leadMeThere
+@prompt:Llevame alli
+Ok, sigueme.
+#####
+@name:loreInquisition
+@prompt:Cuentame sobre la Inquisicion.
+La Inquisicion de Diurna fue fundada 1000 aÃ±os atras por las
+hermanas de rey Otbrael en el nombre de Diurna, diosa de la luz.
+Nuestra mision es luchar contra las fuerzas de la noche y descubrir
+la razon de su aparicion.
+#####
+@name:huntedMonster
+@prompt:Ya lo he cazado!
+Genial! Estas avanzando muy bien por el camino del guerrero
+y ayudando a defender nuestra aldea, estare encantado de fabricarte
+equipamiento con los materiales que has obtenido.
+#####
+@name:wolfTrained
+@prompt:Quiero uno entrenado 20x[minecraft:emerald]
+Tu perro esta en la perrera.
+#####
+@name:comeToSeeMeAtNight
+@prompt:Algo que hacer?
+Ven a visitarme por la noche si quieres luchar contra no-muertos.
+#####
+@name:horseNormal
+@prompt:Give me a horse 24[minecraft:emerald]
+Here ya have yur horse.
+Don't drive drunk!
+#####
+@name:helloMinerals
+@prompt:helloMinerals
+Hola aventurero, estoy buscando los mejores minerales.
+Si tienes algunos te os puedo comprar por esmeraldas.
+#####
+@name:helloWorld
+@prompt:hello
+Hola adventurero!
+Necesitas algo?
+#####
+@name:inqMonsterHunted
+@prompt:El trabajo esta hecho!
+Gracias!
+Ten, unas cuantas esmeraldas por el esfuerzo.
+#####
+@name:helloInquisition
+@prompt:helloInquisition
+Hola adventurero!
+Que el sol te acompaÃ±e.
+#####
+@name:horseTrader
+@prompt:Que haces aqui?
+Este es un crriador de caballos, puedo venderrte las
+mejores monturas, si estas interesado traeme esmeraldas.
+#####
+@name:helloWolfTrader
+@prompt:helloWolfTrader
+Hola viajero, necesitas ayuda en tu busqueda?
+Esta entrrena los mejores perros de la zona.
+#####
+@name:questGrogGive
+@prompt:Dar botella de Grog
+#####
+@name:give64emerald
+@prompt:Dar 64 [minecraft:emerald]
+Esto es... INCREIBLE!!!
+Muchas greacias por tus donaciones.
+Por cierto, sabes quien es Chocolatin?
+Es el creador del "Chocolate Quest" mod,
+no se merece el tambien una donacion?
+#####
+@name:questWizard1finish
+@prompt:Ya me he desecho de ellos
+Espero que esta vez hayan aprendido la leccion!
+Toma unas esmeraldas por tu esfuerzo
+#####
+@name:inqGiantHunted
+@prompt:El gigante esta muerto
+En serio? Lo has matado?
+Es una hazaÃ±a increible.
+Toma unas esmeraldas como recompensa.
+#####
+@name:bipbip
+@prompt:bipbip
+Bip..bip.bip....bip..bip....bip
+#####
+@name:helloGuardStare
+@prompt:helloGuardStare
+(El guardia te mira fijamente)
+...
+#####
+@name:horseGood
+@prompt:Quiero el mejor 32[minecraft:emerald]
+Disfruta tu viaje!
+#####
+@name:inventory
+@prompt:Open inventory
+This text is not displayed!
+#####
+@name:amondHammer
+@prompt:Creo que esto es tuyo
+Ohh, no puedo creerlo....Es....Mi....MARTILLO!!!
+Puedo hacer maravillas con cuanlquier cosa afilada!
+Si me trae algo afilado estare encantado de mejoratelo.
+#####
+@name:arenaInProgress
+@prompt:Arena en progreso
+Ven a hablar conmigo cuando acabes la batalla.
+#####
+@name:upgradeItems
+@prompt:Actualiza mi equipo
+(@name stares at you)
+#####
+@name:enchant
+@prompt:Enchant
+#####
+@name:loreTritons
+@prompt:Hablame de los tritones.
+Los Tritones han dominado los oceanos incluso antes de que nadie apareciera en la superficie.
+Son ingeniosas y timidas criaturas, y es raro verles por la superficie.
+#####
+@name:blacksmithGreeting
+@prompt:blacksmithGreeting
+tengo las mejores armas y armaduras a la venta.
+Echa un vistazo si estas interesado.
+#####
+@name:wantAWolf
+@prompt:Quiero un perro
+Tengo tres tipos de perro diferentes.
+Un perro normal 8x[minecraft:emerald]
+Un perro con algo de entrenamiento 20x[minecraft:emerald]
+Una bestia, especialmente entrenado para cazar 40x[minecraft:emerald]
+#####
+@name:helloInn
+@prompt:helloInn
+Hola aventurero, quieres beber algo?
+Quizar echarte una siesta?
+Has venido al lugar correcto!
+#####
+@name:wolfBeast
+@prompt:Dame una bestia! 40x[minecraft:emerald]
+Tu bestia esta en la perrera
+#####
+@name:giveSkellyBoss
+@prompt:Quiero un Skely mejor
+Si me traes 16 huesos[minecraft:bone], 1 carne podrida[minecraft:rotten_flesh] y 64 esmeraldas[minecraft:emerald]
+Te dare un "Skelly" especial, que podra llevar cualquier arma 
+o armadura que le des.
+#####
+@name:wizardQuest1_1
+@prompt:Que es eso?
+Otro grupo de mercenarios esta merodeando al norte de aqui.
+Intenta desacerte de ellos, y si lo consigues te dejare unirte
+al culto de brujas.
+#####
+@name:orcLostPantsGive
+@prompt:Dar perneras [chocolateQuest:inquisitionPants]
+Grracias amigo, le dire al jefe que me has ayudado,
+quizas te venda algo de equipo.
+#####
+@name:questWizard0finish
+@prompt:No volveran
+Asi que los has machacado? Gracias, espero que no llamen refuerzos.
+Toma unas esmeraldas por el esfuerzo.
+#####
+@name:orcChiefQuest
+@prompt:Algo que hacer?
+Hemos visto en mostrruo gigante cerca del pueblo.
+#####
+@name:Last battle completed
+@prompt:Monstruo cazado!
+Felicidades, has completado la arena!
+#####
+@name:merchantGreeting
+@prompt:merchantGreeting
+Bienvenido al mecado viajante.
+Puedo ofrecerte algo?
+#####
+@name:loreOrc
+@prompt:Hablame de los orcos
+Los trasgos y enanos fueron las primeras especies conocidas en habitar la superficie
+Un dia los goblins empezsaron a obsesionarse con el fuego y a quemar todo a su paso.
+Eso causo conflictos con los enanos y dio inicio a la llamada "Guerra del Fuego",
+hasta que los orcos, una version evolucionada de los trasgos aparecieron para calmar
+las cosas.
+Tiempo despues de las guerras del fuego se divisaron enormes criaturas mutantes que 
+destruian todo a su paso, como los orcos  trasgos vivian en campo abierto la mayoria de
+sus ciudades fueron destruidas.
+A dia de hoy los orcos son nomadas y unos expertos cazadores.
+#####
+@name:receiveItem
+@prompt:Algo para mi?
+Gracias por tus donaciones!
+#####
+@name:questWizard0start
+@prompt:Entonces, que deberia hacer?
+Ohh! Eso es lo que dices, pero, como puedo confiar en ti?
+Hay un grupo de exploradores de la Inquisicion cerca de
+aqui, han estado exploranco el area durante un tiempo.
+Si puedes mantenerlos alejados confiare en tu palabra,
+La ultima vez que los vi estaban acampados al ESTE.
+#####
+@name:loreOrcWarriorPath
+@prompt:Que haceis aqui
+Somos seguidorres del camino del guerrero, cazadores
+y herreros experimientados.
+Si te interresa seguir el camino del guerrero tienes 
+que tratar tu cuerrpo como un templo, y tu mente como tu
+guia espiritual.
+Cuendo tu cuerrpo y tu mente sean uno estarras preparado para
+experimentar tus limites cazando bestias gigantes.
+#####
+@name:questEnchantment
+@prompt:Necesitas algo?
+He estado estudiando algo de magia arcana ultimamente.
+He aprendido a encantar algo de equipo, pero me falta una
+mesa de encantamientos.[minecraft:enchanting_table]
+Te estaria muy agradecido si me traes una.
+#####
+@name:witchTakeBone
+@prompt:Aqui tienes 16 [minecraft:bone]
+Gracias, toma una esmeralda de recompensa.
+#####
+@name:prisonerSave
+@prompt:estas a salvo.
+Gracias por traerme aqui. 
+Te estare eternamente agradecido.
+Si me traes algo de equipo podria acompaÃ±arte
+en tu aventura.
+#####
+@name:questGrog
+@prompt:Necesito algo de ayuda!
+Iria contigo, pero hace tanto frio ahi fuera.
+Si me trajeras una botella de Grog te acompaÃ±aria
+encantado a cazar monstruos.
+#####
+@name:joinWitches
+@prompt:Me gustaria ser uno de los vuestros
+(Si te unes a una faccion, otras facciones se volveran hostiles contra ti)
+#####
+@name:questEnchantmentGive
+@prompt:Dar [minecraft:enchanting_table]
+Gracias! Ahora puedo encantar todo tipo de cosas.
+Ven a verme otra vez cuando necesites encantar algo.
+#####
+@name:horseBad
+@prompt:Dame un burro 16[minecraft:emerald]
+Ahi tienes tu burro
+#####
+@name:witchRottenFlesh
+@prompt:Puedo ayudarte?
+Si, necesito 16 [minecraft:rotten_flesh]
+#####
+@name:helloCartographer
+@prompt:helloCartographer
+Hola aventurero, estamos mapeando el area.
+Si te interesa ayudar, coje un mapa y ponte a 
+explorar!
+#####
+@name:trade
+@prompt:Comerciar
+Let's trade
+#####
+@name:youShallNotPassWitch
+@prompt:...
+No puedes pasar!
+(Reputacion necesaria: 10)
+#####
+@name:questInquisitionInvade
+@prompt:Que haces aqui?
+Hemos encontrado una villa de brujas, necesitamos refuerzos
+para conquistarla.
+Si puedes ayudarnos, podriamos encargarnos de los esqueletos
+de abajo mientras tu te cuelas a por su jefe.
+#####
+@name:prisoner
+@prompt:Eres libre!
+Gracias por rescatarme.
+Siento no tener nada con que pagarte.
+Podrias llevarme a una posada?
+#####
+@name:youShallNotPass
+@prompt:...
+No puedes pasar
+#####
+@name:orcLostPants
+@prompt:Donde estan tus pantalones?
+Un esqueleto robo mis queridos pantalones[chocolateQuest:inquisitionPants] hace dias.
+El jefe me dijo que trabajarra en el campo hasta que pudiera pagarme
+unos nuevos.
+Me va a llevar una eternidad, te estaria muy agradecido si me
+trajeras unos nuevos.
+#####
+@name:wizardQuest0
+@prompt:Que haces aqui?
+Quien eres?
+Como te atreves a venir aqui?
+Si quieres ganarte mi aprovacion tienes que demostrarme tu maldad!
+#####
+@name:witchTakeFlesh
+@prompt:Toma 16 [minecraft:rotten_flesh]
+Gracias, toma una esmeralda como recompensa.
+#####
+@name:helloOrc
+@prompt:helloOrc
+Hola viajante!
+Los Orrkos te damos la bienvenida a nuestrra villa.
+#####
+@name:wizardQuest1
+@prompt:Confias en mi ahora?
+Ohh, si, si estas interesado puedo venderte unos esqueletos
+para que te ayuden en tu aventura.
+
+Tambien necesitare otro favor...
+#####
+@name:wolfNormal
+@prompt:Quiero un perro normal 8x[minecraft:emerald]
+Tu perro esta en la perrera
+#####
+@name:arenaBattle0
+@prompt:Arena facil
+Elije una opcion.
+#####
+@name:inqHuntQuest
+@prompt:Algo que hacer?
+Las noches aqui son muy peligrosas, siempre hay 
+no-muertos alrededor.
+#####
+@name:followMe
+@prompt:Sigueme
+Estare detras tuyo.
+#####
+@name:arenaBattle1
+@prompt:Arena normal
+Elige una opcion
+#####
+@name:arenaBattle2
+@prompt:Arena dificil
+Elige una opcion
+#####
+@name:give10emeralds
+@prompt:Dar 10 [minecraft:emerald]
+Gracias!
+#####
+@name:speakToBoss
+@prompt:speakToBoss
+Habla con el jefe, estamos explorando el area.
+#####
+@name:loreDwarves
+@prompt:Cuentame sobre los enanos
+Los enanos solian vivir en bosques, eran exportos en ingenieria y contruyeron
+increibles fortalezas, la mas notable era la fortaleza inexpugnable, una fortaleza
+en el cielo suspendida sobre un solo pilar creado con una piedra ancestral, dura pero
+ligera, nadie sabe de donde la sacaron.
+Los enanos establecieron sus hogares en las cuevas dentro de las montaÃ±as durante las 
+"guerras del fuego" para guarecerse de las invasiones de trasgos. Durante muchos aÃ±os 
+la unica parte de la superficie donde se podian ver enanos era la fortaleza inxpugnable.
+Todavia a dia de hoy es un misterio como la mantenieron abastecida.
+Viviendo en las cuevas los enanos descubrieron diversos minerales que usaron para investigar
+nuevas tecnologias, como por ejemplo la fabricacion de tanques, que mas tarde evolucionaron
+en lo que hoy dia conocemos como golems, tambien descubrieron la polvora y crearon las primeras
+armas de fuego.
+A dia de hoy los enanos poseen grandes imperios basados en el comercio, tambien envian golems
+para proteger las villas con las que comercian.
+#####
+@name:mercenaryPay
+@prompt:Toma las esmeraldas
+(@name te mira fijamente)
+#####
+@name:inqSkeletonHunt
+@prompt:Quiero machacar no-muertos!
+Si vas hacia el norte encontraras un grupo de no-muertos
+con armaduras.
+Te recompensare si acabas con ellos.
+#####
+@name:mercenaryMid
+@prompt:Que haces aqui?
+Estoy buscando un equipo, estas reclutando gente?
+Puedo ayudarte en tus viajes por solo 32[minecraft:emerald]
+#####
+@name:upgradeEquipement
+@prompt:Mejora mi equipo
+(@name stares at you)
+#####
+@name:itemUpgrade
+@prompt:Mejora mi equipo
+(@name stares at you)
+#####
+@name:orcChiefSlime
+@prompt:Donde puedo encontrarlo?
+Es una rana babosa, ve con cuidado es muy agresiva.
+La encontraras a unos 200 metros al oeste.
+Si me perrmites el consejo, intenta usar arrmas con area de efecto,
+te ayudarran a acabar con las babas pequeñas rrapidamente, de lo 
+contrario estas curaran a la rrana.
+#####
+@name:orcChiefBull
+@prompt:Donde puedo encontrarlo?
+Es un toro enorme, puedes encontrarlo a 200 metros al norte.
+No es excesivamente fuerrte, no deberia causarte demasiados poblemas si vas
+arrmado decentemente y peleas con atención.
+Si puedes intenta golpererle en el lomo, si se lo consigues dañarr aumentaras
+la cantidad de cuero obtenido.
+#####
+@name:orcChiefTurtle
+@prompt:Donde puedo encontrarla?
+Es una torrtuga gigante, la ultima vez que la vimos estaba a
+unos 200 metross al este de aqui.
+Para derrotar a la tortuga debes golpearla en la cabeza hasta que la esconda,
+de lo contrario tendra disponible una regeneracion extrema.
+También puedes golpearle en las patas para aumentar el número de objetos que
+tirará.
+#####
+@name:orcChiefShelob
+@prompt:Donde puedo encontrarlo?
+Es una araña gigante, la encontraras a unos 200 metros hacia el sur.
+Ten cuidado con sus aguijones, intenta esquivarrlos a toda costa, la arraña 
+no es especialmente resistente contra ataques a distancia, asi que si dispones
+de algun arrma de ataque a distancia te ayudara bastante en la pelea. 
+También te lanzara veneno asi que a ser posible, llevate un cubo de leche.
+Una cosa más, si te atrapa con su telaraña agachate para librarte de ella.
+#####

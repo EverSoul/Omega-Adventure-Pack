@@ -1,0 +1,51 @@
+#records
+item.customthings.record.LikeBlock.name= Like a Block
+
+#blocks
+tile.customthings.temperioessenceblock.name= Temperio Essence Block
+tile.customthings.compresseddust.name= Compressed Dust
+tile.customthings.SE.name= SE
+tile.customthings.Gaia Block.name= Compressed Gaia
+tile.customthings.Pie Duck.name= Pie Duck
+tile.customthings.Chr0nick.name= Chr0nick
+tile.customthings.Erick.name= Erick
+tile.customthings.Firre.name= Firre
+tile.customthings.BelowTheEcho.name= BelowTheEcho
+tile.customthings.Dino Soup.name= Dino Soup
+tile.customthings.PowerHungryRing.name= PowerHungryRing
+tile.customthings.BeardedMexican4.name= BeardedMexican4
+tile.customthings.CyberStrawberry.name= CyberStrawberry
+tile.customthings.OmegaBlock.name= Omega Block
+
+#items
+item.temperioessence.name=Temperio Essence
+item.demonsteel1.name=Demon Steel of the First Magnitude
+item.demonsteel2.name=Demon Steel of the Second Magnitude
+item.demonsteel3.name=Demon Steel of the Third Magnitude
+item.demonsteel4.name=Demon Steel of the Fourth Magnitude
+item.demonsteel5.name=Demon Steel of the Fifth Magnitude
+item.demonsteel6.name=Demon Steel of the Sixth Magnitude
+item.demonsteel7.name=Demon Steel of the Seventh Magnitude
+item.demonsteel8.name=Demon Steel of the Eighth Magnitude
+item.demonsteel9.name=Demon Steel of the Ninth Magnitude
+item.demonsteel10.name=Demon Steel of the Tenth Magnitude
+item.demonsteel11.name=Demon Steel of the Eleventh Magnitude
+item.infinity_star.name=Infinity Star
+item.nether_star_essence.name=Nether Star Essence
+item.diamond_singularity.name=Diamond Singularity
+item.emerald_singularity.name=Emerald Singularity
+item.enderium_singularity.name=Enderium Singularity
+item.shiny_singularity.name=Shiny Singularity
+item.steel_singularity.name=Steel Singularity
+item.sapphire_singularity.name=Sapphire Singularity
+item.electrotine_singularity.name=Electrotine Singularity
+item.titanium_singularity.name=Titanium Singularity
+item.epeolatry_singularitySword.name=Epeolatry Singularity Sword
+item.chaoscatalyst.name=Chaos Catalyst
+item.chaosingot.name=Omega Ingot
+item.electrotine_essence.name=Electrotine Essence
+item.thorium_rod.name=Thorium Rod
+item.uranium_rod.name=Uranium Rod
+item.minedollar.name=Mine Dollar
+
+

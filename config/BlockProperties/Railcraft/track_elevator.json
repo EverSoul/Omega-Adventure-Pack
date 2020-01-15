@@ -1,0 +1,21 @@
+{
+  "_name": "Railcraft:track.elevator",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 1.05,
+    "resistance": 5.25,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "crowbar",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

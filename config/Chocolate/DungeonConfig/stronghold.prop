@@ -1,0 +1,33 @@
+#biomes = PLAINS, WASTELAND, FOREST, SANDY, SWAMP
+biomes = PLAINS, WASTELAND, FOREST, SANDY, SWAMP
+
+#chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 20
+
+#mob: defines the mob spawned in that dungeon
+mob = default
+
+#icon: used as the item icon index in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 2
+
+#Builder allows you to choose what builder does the dungeon use
+builder = stronghold
+
+
+#Special data for stronghold
+
+#folder: the folder containing the templates (stronghold requires 15x15 rooms)
+folder = DungeonConfig/Building/stronghold/rooms
+
+folder_entrance = DungeonConfig/Building/stronghold/entrance
+folder_entrance_stairs = DungeonConfig/Building/stronghold/entrance_stairs
+folder_stairs = DungeonConfig/Building/stronghold/stairs
+folder_boss = DungeonConfig/Building/stronghold/boss_room
+
+#Total rooms on each floor are rooms*rooms, by default 3x3(9 rooms/floor)
+rooms = 3
+floors = 3
+#Ammount of mobs per rooms
+mobs = 2

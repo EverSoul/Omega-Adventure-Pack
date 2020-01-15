@@ -1,0 +1,21 @@
+{
+  "_name": "additionalrecipes:tempered_Glass",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 2.0,
+    "resistance": 1.8E7,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 3
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

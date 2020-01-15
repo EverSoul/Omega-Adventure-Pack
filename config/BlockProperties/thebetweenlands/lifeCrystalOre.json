@@ -1,0 +1,21 @@
+{
+  "_name": "thebetweenlands:lifeCrystalOre",
+  "stats": {
+    "opacity": 0,
+    "brightness": 6,
+    "hardness": 1.0,
+    "resistance": 5.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

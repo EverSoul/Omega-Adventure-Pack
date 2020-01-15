@@ -1,0 +1,15 @@
+{"data":
+	[
+	 {
+		"name": "epeolatry_singularity",
+		"tools": ["SWORD"],
+		"level": 0,
+		"durability": 6969,
+		"efficiency": 4.0,
+		"damage": 20.0,
+		"enchantability": 80,
+		"material": "null",
+		"rarity": "epic"
+	  }
+	]
+}

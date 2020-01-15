@@ -1,0 +1,15 @@
+{
+  "_name": "PortalGun:Portal_BlockMulti",
+  "stats": {
+    "opacity": 0,
+    "brightness": 7,
+    "resistance": 2.5,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

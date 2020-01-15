@@ -1,0 +1,527 @@
+@name:witchBone
+@prompt:Can I help you?
+Sure, I am looking for 16 [minecraft:bone]
+#####
+@name:test
+@prompt:Special chars[minecraft:emerald]
+My name is @name
+Your name is @sp
+This [minecraft:diamond] is a diamond
+This [minecraft:stone] is a stone block
+#####
+@name:stare
+@prompt:stare
+(@name stares at you)
+.... .... ....
+#####
+@name:setReunionPoint
+@prompt:Set reunion point here
+Ok sir, well met here if I get lost.
+#####
+@name:give1emerald
+@prompt:Give 1 [minecraft:emerald]
+Thanks!
+#####
+@name:huntedMonsterArena
+@prompt:Arena completed!
+Congratulations!
+Now you can play in the next level.
+#####
+@name:needARest
+@prompt:I need to rest
+You can sleep in the rooms upstairs.
+It's for free as long as you can guard us agains the
+hordes of the night.
+We accept donations if you have some emeralds.
+to spare
+#####
+@name:inqGiantHunt
+@prompt:Any monster tonight?
+An incredible giant zombie was spotted west.
+Take care if you aproach there.
+#####
+@name:witchDoingHere
+@prompt:What are you doing here?
+We got away from the civilization to experiment with
+black magic and potentially dangerous potions.
+As you can see we managed to crete and control skeletons.
+#####
+@name:waitHere
+@prompt:Wait here
+I won't move from here
+#####
+@name:orcLostSword
+@prompt:Do you need something?
+Mah spear[chocolateQuest:spearDiamond], can't remember where did I put it.
+Tha boss says I can't patrol without it, few he knows
+about orrks
+#####
+@name:takeIt
+@prompt:Take it
+Thanks!
+#####
+@name:inqSpecterHunt
+@prompt:inqSpecterHunt
+A group of specters has been seen tonight south,
+go explore the area and if you get rid of them I will 
+reward you
+#####
+@name:helloArena
+@prompt:helloArena
+Hello, welcome to the arena.
+Do you want to participate?
+#####
+@name:imYourMaster
+@prompt:I am your master
+(@name stares at you)
+MAASTERRR...
+#####
+@name:mercenaryGood
+@prompt:What are you doing here?
+I'm looking for a team, are you recruiting people?
+I can help you in your travels for just 48 [minecraft:emerald]
+#####
+@name:give20emerald
+@prompt:Give 20 [minecraft:emerald]
+That's awesome, thanks a lot!
+
+Take some potions!
+#####
+@name:inqZombieHunt
+@prompt:Any undead tonight?
+There is a group of zombies east.
+#####
+@name:helloMarket
+@prompt:helloMarket
+Hello wanderer, welcome to the Market.
+Try to have fun and don't cause any trouble.
+#####
+@name:recieveSkelly
+@prompt:Take your materials
+You will find your Skellybest at the entrance
+#####
+@name:mercenaryCheap
+@prompt:What are you doing here?
+I'm looking for a team, are you recruiting people?
+I can help you in your travels for just 10 [minecraft:emerald]
+#####
+@name:leadMeThere
+@prompt:Lead me there
+Ok, follow me.
+#####
+@name:loreInquisition
+@prompt:Tell me about the Inquisition
+The Inquisition was founded around 1000 years ago by king Otbrael's sisters 
+Amada and Namu, in the name of Diurna, goddess of light.
+Or  mission is to fight against the night forces and  discover the cause of 
+their spawn.
+#####
+@name:huntedMonster
+@prompt:Aleady hunted it!
+Nice! You are succesfully following the path of tha warrior
+and helping our village, I'll be pleased to craft ya some 
+equipement if you collected enough materials.
+#####
+@name:wolfTrained
+@prompt:I want a trained one 20x[minecraft:emerald]
+Your wolf is in the doghouse
+#####
+@name:comeToSeeMeAtNight
+@prompt:Anything to do?
+Come to visit me at night if you want to fight some undeads.
+#####
+@name:horseNormal
+@prompt:Give me a horse 24[minecraft:emerald]
+Here ya have yur horse.
+Don't drive drunk!
+#####
+@name:helloMinerals
+@prompt:helloMinerals
+Hello adventurer, I'm looking for the finest minerals.
+If you have some I can give you emeralds.
+#####
+@name:helloWorld
+@prompt:hello
+Hello adventurer!
+Do you need something?
+#####
+@name:inqMonsterHunted
+@prompt:Job is done!
+Thanks!
+Take some emeralds for the efforts.
+#####
+@name:helloInquisition
+@prompt:helloInquisition
+Hello adventurer!
+May the sun be with you.
+#####
+@name:horseTrader
+@prompt:What are you doing here?
+This is a horse brreeder, I can sell the best mounts
+if ya are interested bring some emeralds.
+#####
+@name:helloWolfTrader
+@prompt:helloWolfTrader
+Hello wanderer. Do ya need some help in your quest?
+I train tha best wolves in this arrea.
+#####
+@name:questGrogGive
+@prompt:Give grog bottle
+(@name stares at you)
+#####
+@name:give64emerald
+@prompt:Give 64 [minecraft:emerald]
+That's awesome, thanks for the donations!
+Do you know who is Chocolatin?
+He coded the entire Chocolate Quest mod
+doesn't he deserve a donation too?
+#####
+@name:questWizard1finish
+@prompt:I got rid of them
+Hope this time they learned the lesson!
+Take some emeralds for the effort
+#####
+@name:inqGiantHunted
+@prompt:The giant is dead
+Really? Did you kill it?
+That's an amazing achievement.
+Take some emeralds as reward.
+#####
+@name:bipbip
+@prompt:bipbip
+Bip..bip.bip....bip..bip....bip
+#####
+@name:helloGuardStare
+@prompt:helloGuardStare
+(Guard stares at you)
+...
+#####
+@name:horseGood
+@prompt:I want your best 32[minecraft:emerald]
+Enjoy your travel!
+#####
+@name:inventory
+@prompt:Open inventory
+This text is not displayed!
+#####
+@name:amondHammer
+@prompt:I think that's yours
+Ohh! Can't belive that... Is... My... HAMMER!!!!
+I will give your weapons special upgrades if you give
+it to me.
+#####
+@name:arenaInProgress
+@prompt:Arena in progress
+Come to speak with me once you complete the arena battle
+#####
+@name:upgradeItems
+@prompt:Upgrade my equipement
+(@name stares at you)
+#####
+@name:enchant
+@prompt:Enchant
+#####
+@name:loreTritons
+@prompt:Tell me about Tritons
+Tritons have dominated the oceans even before creatures appeared on the surface,
+they are witty and shy creatures, and it's rare to see them around the surface.
+The first time they were seen was during the "Fire wars", they tried to calm goblins 
+but could do nothing, it is rumoured that some of them established around lakes and 
+rivers but there is no proof. The second time they were seen on the surface was during 
+the "Abyss Walkers" invasion, they had a great knowledge of magic and provided a great 
+support to the other races on the surface, but after the invasion ended they reclaimed 
+some territories which started some conflicts. These days Tritons live in their ocean 
+cities under the menace of pirates. 
+#####
+@name:blacksmithGreeting
+@prompt:blacksmithGreeting
+I have the best weapons and armors for sale.
+Take a look if you are interested.
+#####
+@name:wantAWolf
+@prompt:I want a wolf
+I have 3 differrent types of wolfes.
+A normal wolf 8x[minecraft:emerald]
+A specially trrained wolf, with more resistance 20x[minecraft:emerald]
+And a beast, specially trained to hunt prreys 40[minecraft:emerald]
+#####
+@name:helloInn
+@prompt:helloInn
+Hello adventurer, do you want to drink something?
+maybe take a nap?
+You came to the correct place!
+#####
+@name:wolfBeast
+@prompt:Give me a beast! 40x[minecraft:emerald]
+Your beast is in the doghouse
+#####
+@name:giveSkellyBoss
+@prompt:I want a better Skely
+If you bring me 16 bones[minecraft:bone], 1 rotten flesh[minecraft:rotten_flesh] and 64 emeralds[minecraft:emerald]
+I'll give an speciall skelly, wich will wear any armor and
+use any weapon you give him.
+#####
+@name:wizardQuest1_1
+@prompt:What is it?
+Another group of mercenaries is wandering North here.
+Try to get rid of them and I will offer you to join us.
+#####
+@name:orcLostPantsGive
+@prompt:Give leggins [chocolateQuest:inquisitionPants]
+Thanks friend, I'll tell it to tha boss, he may sell ya
+some equipement.
+#####
+@name:questWizard0finish
+@prompt:They won't come back!
+So you smashed them? Thanks, I hope they don't come
+around here soon.
+Take some emeralds for the effort
+#####
+@name:orcChiefQuest
+@prompt:Anything to do?
+We found a giant monsterr menacing our village.
+If ya want go hunt him take theirr skins here and I 
+can craft ya orrk special armor! 
+#####
+@name:Last battle completed
+@prompt:Monster hunted!
+Congratulations, you just completed the arena!
+#####
+@name:merchantGreeting
+@prompt:merchantGreeting
+Welcome to the market traveler.
+Can I offer you something?
+#####
+@name:loreOrc
+@prompt:Tell me about Orcs
+Goblins and Dwarves were the first known species that inhabited the surface, 
+but one day goblins went crazy and started fires all around. 
+That caused conflicts with dwarves and started the "Fire wars", until orcs 
+appeared to calm them. Time after the "Fire wars" ended some creatures on the 
+surface started mutating to oversized creatures. 
+Many orcs and goblins had their houses destroyed by those creatures and 
+they adapted to a new lifestyle. Now Orcs and Goblins are nomads, experts on 
+monsters hunting.
+#####
+@name:receiveItem
+@prompt:Something for me?
+Thanks for your donations!
+#####
+@name:questWizard0start
+@prompt:So, what should I do?
+Ohh! that's what you say, but how can I trust you?
+There is a group of Inquisition scouters around here
+they have been scouting our village for some time.
+If you can keep them out here I will trust you.
+Last time I saw them they were camping EAST.
+#####
+@name:loreOrcWarriorPath
+@prompt:What are you doing here?
+We are followers of tha warriorr path, we are expert
+hunterrs and blacksmiths.
+If ya want to follow tha warriorr path yar have to treat
+ya body as a temple and yar mind as ya spiritual guide,
+and once yar body and yar mind become one ya
+need to push yar limits against giants monterrs.
+#####
+@name:questEnchantment
+@prompt:Do you need something?
+I've been studiyin some arcane magic lately, I've
+learned to enchant some equipement, but I'm missing
+an enchanting table.[minecraft:enchanting_table]
+If you can bring me one, I will be very thankful.
+#####
+@name:witchTakeBone
+@prompt:Here are your 16 [minecraft:bone]
+Thanks, take an emerald as reward.
+#####
+@name:prisonerSave
+@prompt:prisonerSave
+Thanks for taking me here.
+I will be eternally grateful.
+If you bring me some equipement I can help you in
+your adventures.
+#####
+@name:questGrog
+@prompt:I need some help!
+I would go with you but it's so cold out there.
+But if you invite me to a Grog bottle we can go
+hunt some monsters.
+#####
+@name:joinWitches
+@prompt:I would like to be one of you
+(If you join a faction other factions may become hostile)
+#####
+@name:questEnchantmentGive
+@prompt:Give [minecraft:enchanting_table]
+Thanks a lot, now I can enchant all kind of things,
+come to meet me again if you need some enchantments
+#####
+@name:horseBad
+@prompt:Give me a donkey 16[minecraft:emerald]
+Here is your donkey
+#####
+@name:witchRottenFlesh
+@prompt:Can I help you?
+Sure, I am looking for 16 [minecraft:rotten_flesh]
+#####
+@name:helloCartographer
+@prompt:helloCartographer
+Hello adventurer, we are mapping the area.
+If you want to help pick a map and explore the
+surroundings!
+#####
+@name:trade
+@prompt:Trade
+Let's trade
+#####
+@name:youShallNotPassWitch
+@prompt:...
+You shall not pass
+(Reputation required: 10)
+#####
+@name:questInquisitionInvade
+@prompt:What are you doing here?
+We spotted a witches village, we need reinforcement to
+conquer it.
+If you can help us we, can handle the skeletons on
+the bottom, and you can sneak in the base and defeat 
+the wizard leading them,
+#####
+@name:prisoner
+@prompt:You are free
+Thanks for rescuing me!
+I'm sorry I have nothing to pay you.
+Can you take me to an inn?
+#####
+@name:youShallNotPass
+@prompt:...
+You shall not pass
+#####
+@name:orcLostPants
+@prompt:Where are your leggins?
+A skelethon stole my belov'd leggins[chocolateQuest:inquisitionPants] days ago.
+Tha boss told me to farrm until I could pay new ones.
+It will take me an eternity, i'll be thankfull if ya bring
+me new ones.
+#####
+@name:wizardQuest0
+@prompt:What are you doing here?
+Who are you?
+How dare you come here?
+If you want to gain my approval you have to prove me
+you are evil
+#####
+@name:witchTakeFlesh
+@prompt:Take 16 [minecraft:rotten_flesh]
+Thanks, take an emerald as reward.
+#####
+@name:helloOrc
+@prompt:helloOrc
+Helloh wanderer!
+We Orrks welcome ya to our village!
+#####
+@name:wizardQuest1
+@prompt:You trust me now?
+Ohh, yes I do, if you are interested I can sell you
+some skeletons to help you in your adventures.
+
+Also I need another favour...
+#####
+@name:wolfNormal
+@prompt:I want a normal wolf 8x[minecraft:emerald]
+Your wolf is in the doghouse
+#####
+@name:arenaBattle0
+@prompt:Arena easy
+Select a match
+#####
+@name:inqHuntQuest
+@prompt:Something to do?
+Nights are very dangerous here, there are allways
+undeads around.
+#####
+@name:followMe
+@prompt:Follow me
+I will be behind you
+#####
+@name:arenaBattle1
+@prompt:Arena normal
+Select a match
+#####
+@name:arenaBattle2
+@prompt:Arena hard
+Select a match
+#####
+@name:give10emeralds
+@prompt:Give 10 [minecraft:emerald]
+Thanks!
+#####
+@name:speakToBoss
+@prompt:speakToBoss
+Speak to the boss, we are scouting the area.
+#####
+@name:loreDwarves
+@prompt:Tell me about dwarves
+Dwarves used to live on forests, they were expert engineers and created great 
+constructions, the most notable one was the impregnable fortress, an immense 
+fortress in the sky sustained by a single pillar, created with an ancient stone 
+hard but lightweight, no one knows where they extracted it. 
+Dwarves established their homes on mountains and caves during the "Fire wars", 
+hiding from goblins attack, during years the only place on the surface where 
+dwarves could be seen was in the impregnable fortress and still today it's a 
+mystery how they kept it supplied. In the caves they discovered minerals and 
+gunpowder and they researched the technology to craft golems and fire weapons. 
+These days dwarves have immense empires hidden underground and are dedicated to 
+trades and sometimes they send golems to protect human villages. 
+#####
+@name:mercenaryPay
+@prompt:Take the emeralds
+(@name stares at you)
+#####
+@name:inqSkeletonHunt
+@prompt:I want to smash undeads!
+If you go north you will find a group of well armored.
+skeletons, try smashing their bones to pieces!
+I'll reward you if you do so.
+#####
+@name:mercenaryMid
+@prompt:What are you doing here?
+I'm looking for a team, are you recruiting people?
+I can help you in your travels for just 32 [minecraft:emerald]
+#####
+@name:upgradeEquipement
+@prompt:Upgrade my equipement
+(@name stares at you)
+#####
+@name:itemUpgrade
+@prompt:Upgrade my items
+(@name stares at you)
+#####
+@name:orcChiefBull
+@prompt:Where can I find it?
+It's a giant bull, you will find it around 200 meters north
+#####
+@name:orcChiefTurtle
+@prompt:Where can I find it?
+It's a giant turtle, you will find it around 200 meters east.
+To beat the turtle you have to smack it on the head. If the head is
+visible the turtle will enter in a extreme regeneration mode.
+You can also hit it on the legs to increase the ammount of droped items.
+Try not to get dizzy with its spin!
+#####
+@name:orcChiefShelob
+@prompt:Where can I find it?
+It's a giant spider, you will find it around 200 meters south
+Be careful with her stings, dodge them at all costs, if you have a long
+range weapon bring it to the battle, the spider does not hach much projectile projection.
+She will also launch poison at you, so if you can take a milk bucket to the battle.
+One more thing, if you are cached by her web, sneak to get rid of it.
+#####
+@name:orcChiefSlime
+@prompt:Where can I find it?
+It's a slimy frrog, be careful it's verry aggresive.
+You will find it 200 meters west.
+If you want my advice try to use area of effect weapons to get rrid of
+small slimes, otherwise they will heal the frrog.
+####

@@ -1,0 +1,51 @@
+{
+  "_name": "Techguns:basicMachine",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 60.0,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "_meta": 0,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 1,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 2,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 3,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 4,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 5,
+        "tool": "pickaxe",
+        "level": 1
+      },
+      {
+        "_meta": 7,
+        "tool": "pickaxe",
+        "level": 1
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

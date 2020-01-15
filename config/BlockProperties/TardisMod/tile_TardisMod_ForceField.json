@@ -1,0 +1,15 @@
+{
+  "_name": "TardisMod:tile.TardisMod.ForceField",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "resistance": 1.8E7,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

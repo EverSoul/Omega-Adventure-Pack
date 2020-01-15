@@ -1,0 +1,16 @@
+{
+  "_name": "OreSpawn:OreSpawn_OreCrystalCrystalBlock",
+  "stats": {
+    "opacity": 0,
+    "brightness": 6,
+    "hardness": 12.0,
+    "resistance": 120.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

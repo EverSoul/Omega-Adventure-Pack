@@ -1,0 +1,21 @@
+{
+  "_name": "MineFactoryReloaded:plastic",
+  "stats": {
+    "opacity": 255,
+    "brightness": 0,
+    "hardness": 0.3,
+    "resistance": 1.5,
+    "sound": "metal",
+    "slipperiness": 1.0203041,
+    "tool_data": [
+      {
+        "tool": "shovel",
+        "level": 0
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

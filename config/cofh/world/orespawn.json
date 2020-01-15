@@ -1,0 +1,22 @@
+{
+   "black listed ant": {
+			"template": "uniform",
+			"block": [
+			"OreSpawn:OreSpawn_OreRedAntTrollBlock"
+			],
+			"weight": [
+			0
+			],
+			"clusterSize": 2,
+			"numClusters": 4,
+			"minHeight": 1,
+			"maxHeight": 4,
+			"retrogen": true,
+			"biome": "none",
+			"dimensionRestriction": "whitelist",
+			"dimensions": [
+            150
+        ]
+			}
+		
+}

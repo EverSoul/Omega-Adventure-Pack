@@ -1,0 +1,16 @@
+{
+  "_name": "BuildCraft|Silicon:laserTableBlock",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 10.0,
+    "resistance": 50.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

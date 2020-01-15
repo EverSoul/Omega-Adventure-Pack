@@ -1,0 +1,16 @@
+{
+  "_name": "ProjectE:condenser_mk1",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 10.0,
+    "resistance": 1.8E7,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

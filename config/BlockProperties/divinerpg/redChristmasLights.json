@@ -1,0 +1,16 @@
+{
+  "_name": "divinerpg:redChristmasLights",
+  "stats": {
+    "opacity": 0,
+    "brightness": 15,
+    "hardness": 0.4,
+    "resistance": 2.0,
+    "sound": "stone",
+    "slipperiness": 0.6,
+    "tool_data": []
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

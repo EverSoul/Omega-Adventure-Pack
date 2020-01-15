@@ -1,0 +1,133 @@
+{
+  "_name": "minecraft:fire",
+  "stats": {
+    "opacity": 0,
+    "brightness": 15,
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "sound": "wood",
+    "slipperiness": 0.6,
+    "tool_data": [],
+    "fire_data": [
+      {
+        "_name": "minecraft:oak_stairs",
+        "flammability": 20,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:hay_block",
+        "flammability": 20,
+        "spread": 60
+      },
+      {
+        "_name": "minecraft:wool",
+        "flammability": 60,
+        "spread": 30
+      },
+      {
+        "_name": "minecraft:double_wooden_slab",
+        "flammability": 20,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:tnt",
+        "flammability": 100,
+        "spread": 15
+      },
+      {
+        "_name": "minecraft:log",
+        "flammability": 5,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:bookshelf",
+        "flammability": 20,
+        "spread": 30
+      },
+      {
+        "_name": "minecraft:double_plant",
+        "flammability": 100,
+        "spread": 60
+      },
+      {
+        "_name": "minecraft:leaves2",
+        "flammability": 60,
+        "spread": 30
+      },
+      {
+        "_name": "minecraft:leaves",
+        "flammability": 60,
+        "spread": 30
+      },
+      {
+        "_name": "minecraft:log2",
+        "flammability": 5,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:jungle_stairs",
+        "flammability": 20,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:tallgrass",
+        "flammability": 100,
+        "spread": 60
+      },
+      {
+        "_name": "minecraft:spruce_stairs",
+        "flammability": 20,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:carpet",
+        "flammability": 20,
+        "spread": 60
+      },
+      {
+        "_name": "minecraft:vine",
+        "flammability": 100,
+        "spread": 15
+      },
+      {
+        "_name": "minecraft:birch_stairs",
+        "flammability": 20,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:yellow_flower",
+        "flammability": 100,
+        "spread": 60
+      },
+      {
+        "_name": "minecraft:fence",
+        "flammability": 20,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:planks",
+        "flammability": 20,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:coal_block",
+        "flammability": 5,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:wooden_slab",
+        "flammability": 20,
+        "spread": 5
+      },
+      {
+        "_name": "minecraft:red_flower",
+        "flammability": 100,
+        "spread": 60
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}
