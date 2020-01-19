@@ -1,52 +1,79 @@
 @echo off
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 10%] Deploying [Windows] Omega Adventure Pack Server...
+echo Deploying [Windows] Omega Adventure Pack Server...
 echo ===============================================================================
 PAUSE
-cls
+::cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 20%] Deleting Client-Sided Mods...
+echo Generating and Accepting/Declining EULA...
 echo ===============================================================================
+echo "By typing YES below, you are indicating your agreement to the Mojang EULA (https://account.mojang.com/documents/minecraft_eula)"
+set /p eula_choice="Type YES or NO, then press [ENTER]: "
+IF "%eula_choice%"=="YES" (GOTO EULA_ACCEPT)
+IF "%eula_choice%"=="yes" (GOTO EULA_ACCEPT)
+::cls
+
+:EULA_DECLINE
+echo "You will be unable to deploy/start the server until you accept the EULA.  Ending script...
+echo eula=false > ..\eula.txt
+::cls
+GOTO END
+
+:EULA_ACCEPT
+echo "You have accepted the EULA."
+echo eula=true > ..\eula.txt
+::cls
+
+echo ===============================================================================
+echo Deleting Client-Sided Files...
+echo ===============================================================================
+echo Deleting Client-Sided Mods...
 DEL /F /Q ..\mods\(client)*
-cls
+
+echo Deleting Bin Folder...
+RMDIR /S /Q ..\bin
+
+echo Deleting Resources Folder...
+RMDIR /S /Q ..\resources
+::cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 30%] Copying Libraries...
+echo Copying Libraries...
 echo ===============================================================================
 xcopy /I /S /Y "Server Files\libraries" ..\libraries
-cls
+::cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 40%] Copying Scripts...
+echo Copying Scripts...
 echo ===============================================================================
 xcopy /I /S /Y "Server Files\scripts" ..\scripts 
-cls
+::cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 50%] Copying Forge...
+echo Copying Forge...
 echo ===============================================================================
 xcopy /Y "Server Files\forge-1.7.10-10.13.4.1614-1.7.10-universal.jar" ..\
-cls
+::cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 60%] Copying Minecraft Server JAR...
+echo Copying Minecraft Server JAR...
 echo ===============================================================================
 xcopy "Server Files\minecraft_server.1.7.10.jar" ..\
-cls
+::cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 70%] Generating Server Launch Script...
+echo Generating Server Launch Script...
 echo ===============================================================================
 set /p RAM_ALLOCATION="How much RAM do you want to give the server? (e.g. 8 = 8GB): "
 set /p CPU_ALLOCATION="How many CPU cores do you want to give the server? (e.g. 4 = 4-Cores): "
 
 echo java -server -Xms256M -Xmx%RAM_ALLOCATION%G -d64 -server -XX:+AggressiveOpts -XX:ParallelGCThreads=%CPU_ALLOCATION% -XX:+UseConcMarkSweepGC -XX:+UnlockExperimentalVMOptions -XX:+UseParNewGC -XX:+ExplicitGCInvokesConcurrent -XX:MaxGCPauseMillis=10 -XX:GCPauseIntervalMillis=50 -XX:+UseFastAccessorMethods -XX:+OptimizeStringConcat -XX:NewSize=84m -XX:+UseAdaptiveGCBoundary -XX:NewRatio=3 -Dfml.readTimeout=90 -Ddeployment.trace=true -Ddeployment.log=true -Ddeployment.trace.level=all -jar forge-1.7.10-10.13.4.1614-1.7.10-universal.jar nogui > ..\Launch_Server.bat
-cls
+::cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 80%] Generating Server.properties File...
+echo Generating Server.properties File...
 echo ===============================================================================
 set /p SERVER_FRIENDLYNAME="Give the server a friendly name (e.g. Omega Adventure Pack): "
 set /p SERVER_SEED="Pick a world seed for the server: "
@@ -87,30 +114,11 @@ echo generate-structures=true >> ..\server.properties
 echo view-distance=6 >> ..\server.properties
 echo spawn-protection=32 >> ..\server.properties
 echo motd=%SERVER_FRIENDLYNAME% >> ..\server.properties
-cls
+::cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 90%] Generating and Accepting/Declining EULA...
-echo ===============================================================================
-echo "By typing YES below, you are indicating your agreement to the Mojang EULA (https://account.mojang.com/documents/minecraft_eula)"
-set /p eula_choice="Type YES or NO, then press [ENTER]: "
-IF "%eula_choice%"=="YES" (GOTO EULA_ACCEPT)
-IF "%eula_choice%"=="yes" (GOTO EULA_ACCEPT)
-cls
-
-:EULA_DECLINE
-echo "You will be unable to start the server until you accept the EULA.  Ending script...
-echo eula=false > ..\eula.txt
-cls
-break
-
-:EULA_ACCEPT
-echo "You have accepted the EULA."
-echo eula=true > ..\eula.txt
-cls
-
-echo ===============================================================================
-echo [OVERALL PROGRESS: 100%] Server Deployment Complete!
+echo Server Deployment Complete!
 echo ===============================================================================
 echo Press any key to exit the server conversion script.
 PAUSE > NUL
+:END
