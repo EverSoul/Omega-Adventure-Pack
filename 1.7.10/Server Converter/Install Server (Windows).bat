@@ -15,23 +15,29 @@ cls
 echo ===============================================================================
 echo [OVERALL PROGRESS: 30%] Copying Libraries...
 echo ===============================================================================
-xcopy /I /S /Y libraries ..\libraries
+xcopy /I /S /Y "Server Files\libraries" ..\libraries
 cls
 
 echo ===============================================================================
 echo [OVERALL PROGRESS: 40%] Copying Scripts...
 echo ===============================================================================
-xcopy /I /S /Y scripts ..\scripts 
+xcopy /I /S /Y "Server Files\scripts" ..\scripts 
 cls
 
 echo ===============================================================================
 echo [OVERALL PROGRESS: 50%] Copying Forge...
 echo ===============================================================================
-xcopy /Y "forge-1.7.10-10.13.4.1614-1.7.10-universal.jar" ..\
+xcopy /Y "Server Files\forge-1.7.10-10.13.4.1614-1.7.10-universal.jar" ..\
 cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 60%] Generating Server Launch Script...
+echo [OVERALL PROGRESS: 60%] Copying Minecraft Server JAR...
+echo ===============================================================================
+xcopy "Server Files\minecraft_server.1.7.10.jar" ..\
+cls
+
+echo ===============================================================================
+echo [OVERALL PROGRESS: 70%] Generating Server Launch Script...
 echo ===============================================================================
 set /p RAM_ALLOCATION="How much RAM do you want to give the server? (e.g. 8 = 8GB): "
 set /p CPU_ALLOCATION="How many CPU cores do you want to give the server? (e.g. 4 = 4-Cores): "
@@ -40,7 +46,7 @@ echo java -server -Xms256M -Xmx%RAM_ALLOCATION%G -d64 -server -XX:+AggressiveOpt
 cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 70%] Generating Server.properties File...
+echo [OVERALL PROGRESS: 80%] Generating Server.properties File...
 echo ===============================================================================
 set /p SERVER_FRIENDLYNAME="Give the server a friendly name (e.g. Omega Adventure Pack): "
 set /p SERVER_SEED="Pick a world seed for the server: "
@@ -84,12 +90,6 @@ echo motd=%SERVER_FRIENDLYNAME% >> ..\server.properties
 cls
 
 echo ===============================================================================
-echo [OVERALL PROGRESS: 80%] Copying Minecraft Server JAR...
-echo ===============================================================================
-xcopy "minecraft_server.1.7.10.jar" ..\
-cls
-
-echo ===============================================================================
 echo [OVERALL PROGRESS: 90%] Generating and Accepting/Declining EULA...
 echo ===============================================================================
 echo "By typing YES below, you are indicating your agreement to the Mojang EULA (https://account.mojang.com/documents/minecraft_eula)"
@@ -112,4 +112,5 @@ cls
 echo ===============================================================================
 echo [OVERALL PROGRESS: 100%] Server Deployment Complete!
 echo ===============================================================================
+echo Press any key to exit the server conversion script.
 PAUSE > NUL
