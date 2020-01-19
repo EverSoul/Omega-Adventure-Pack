@@ -15,13 +15,13 @@ cls
 echo ===============================================================================
 echo [OVERALL PROGRESS: 30%] Copying Libraries...
 echo ===============================================================================
-xcopy libraries ..\libraries /I /S /Y
+xcopy /I /S /Y libraries ..\libraries
 cls
 
 echo ===============================================================================
 echo [OVERALL PROGRESS: 40%] Copying Scripts...
 echo ===============================================================================
-xcopy scripts ..\scripts /I /S /Y
+xcopy /I /S /Y scripts ..\scripts 
 cls
 
 echo ===============================================================================
@@ -92,7 +92,7 @@ cls
 echo ===============================================================================
 echo [OVERALL PROGRESS: 90%] Generating and Accepting/Declining EULA...
 echo ===============================================================================
-echo "By typing YES below, you are indicating your agreement to the EULA (https://account.mojang.com/documents/minecraft_eula)"
+echo "By typing YES below, you are indicating your agreement to the Mojang EULA (https://account.mojang.com/documents/minecraft_eula)"
 set /p eula_choice="Type YES or NO, then press [ENTER]: "
 IF "%eula_choice%"=="YES" (GOTO EULA_ACCEPT)
 IF "%eula_choice%"=="yes" (GOTO EULA_ACCEPT)
