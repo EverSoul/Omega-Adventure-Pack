@@ -11,9 +11,9 @@ There are two different ways to set up a Minecraft server, either by installing 
 - Extract the ZIP archive in the directory that you will be running your server from on your computer.  
 
 ### Installation
-- Within the newly-created directory, navigate inside the "**Server Converter**" folder, and run the "**Install Windows Server.bat**" script.
+- Within the newly-created directory, navigate inside the "**Server Converter**" folder, and run the "**Install Server (Windows).bat**" script.
 You will be prompted to choose how many system resources to allocate to the server along with other customizable information, such as server name, max players, and world seed.  The script will automatically copy the necessary server files to their correct locations and delete the client-sided mods.
-- Use the "**Launch_Server.bat**" script (located in the main folder) to start the Minecraft server.
+- Use the "**Launch_Server.bat**" script (located in the main folder) to start the new Minecraft server.
 
 ## Authors
 
