@@ -1,5 +1,5 @@
-import mods.projecte.PhiloStone;
-import mods.projecte.KleinStar;
+#import mods.projecte.PhiloStone;
+#import mods.projecte.KleinStar;
 
 #Example script for projecte
 
