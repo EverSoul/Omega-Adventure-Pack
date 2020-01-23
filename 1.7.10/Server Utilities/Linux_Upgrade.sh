@@ -8,7 +8,7 @@ echo ""
 
 #Set Global OMEGA ADVENTURE PACK Upgrade Script Variables
 declare SERVER_FOLDERNAME="Omega-Adventure-Pack"
-declare UPGRADE_STORAGE="DELTA_OMEGA"
+declare UPGRADE_STORAGE="SERVER_BACKUP"
 declare MINECRAFT_VERSION="1.7.10"
 
 echo -e '\E[37;44m'"\033[1m BACKING UP SERVER DATA... \033[0m"
@@ -32,7 +32,6 @@ declare -a BACKUP_FILES=(
 "mods/TickDynamic-1.7.10-0.1.5.jar"
 "world"
 "Launch_Server.sh"
-"UPDATE_NOTICE.sh"
 "STOP_NOTICE.sh"
 "UPDATE_NOTICE.sh"
 )
@@ -51,19 +50,21 @@ echo ""
 
 echo -e '\E[37;44m'"\033[1m EXTRACTING OMEGA ADVENTURE PACK v$UPGRADE_VERSION... \033[0m"
 tar -xvf "v$UPGRADE_VERSION.tar.gz"
-mv "Omega-Adventure-Pack-$UPGRADE_VERSION" "Omega-Adventure-Pack"
+mv "$SERVER_FOLDERNAME-$UPGRADE_VERSION" "$SERVER_FOLDERNAME"
 rm -r "v$UPGRADE_VERSION.tar.gz"
-cd Omega-Adventure-Pack
-cd $MINECRAFT_VERSION
-mv config ..
-mv scripts ..
-mv mods ..
-cd "Server Utilities"
-mv -fv scripts ../..
-mv -fv libraries ../..
-mv -v minecraft_server.1.7.10.jar ../..
-mv -v forge-1.7.10-10.13.4.1614-1.7.10-universal.jar ../..
-cd ../..
+cd "$SERVER_FOLDERNAME/$MINECRAFT_VERSION"
+cp -rvP config ..
+cp -rvP scripts ..
+cp -rvP  mods ..
+echo ""
+
+echo -e '\E[37;44m'"\033[1m COPYING MINECRAFT AND FORGE SERVER DATA... \033[0m"
+cd "Server Utilities/Server Files"
+cp -rvP scripts ../../..
+cp -rvP libraries ../../..
+cp -rvP minecraft_server.1.7.10.jar ../../..
+cp -rvP forge-1.7.10-10.13.4.1614-1.7.10-universal.jar ../../..
+cd ../../..
 rm -r $MINECRAFT_VERSION
 rm -r README.md
 mkdir -p "config/aroma1997"
@@ -74,9 +75,13 @@ echo ""
 echo -e '\E[37;44m'"\033[1m MOVING BACKED UP FILES TO NEW SERVER... \033[0m"
 for file in "${BACKUP_FILES[@]}"
 	do
-		mv -v "$UPGRADE_STORAGE/$file" "Omega-Adventure-Pack/$file"
+		mv -v "$UPGRADE_STORAGE/$file" "$SERVER_FOLDERNAME/$file"
 	done
 rm -r $UPGRADE_STORAGE
+echo ""
+
+echo -e '\E[37;44m'"\033[1m DELETING CLIENT-SIDED MODS FROM SERVER... \033[0m"
+find "$SERVER_FOLDERNAME/mods" -name '*client*.jar' -exec rm {} +
 echo ""
 
 echo -e '\E[37;44m'"\033[1m OMEGA ADVENTURE PACK SERVER UPGRADE TO V$UPGRADE_VERSION COMPLETE! \033[0m"
