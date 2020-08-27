@@ -24,8 +24,9 @@ Primarily, there are two different ways to set up an Omega Adventure Pack server
 - ###### Within the newly-created directory, navigate inside the "**Server Converter**" folder, and run the "**Install Server (Windows).bat**" script.  You will be prompted to choose how many system resources to allocate to the server along with other customizable information, such as server name, max players, and world seed.  The script will automatically copy the necessary server files to their correct locations and delete the client-sided mods.
 - ###### Use the "**Launch_Server.bat**" script (located in the main folder) to start the new Minecraft server.
 
-**Debian/Ubuntu**:
-###### Pending Additional Documentation
+**GNU/Linux**:
+- ###### Clone the repository and enter the "**Server Utilities**" folder with`cd '1.7.10/Server Utilities'`. Then, make `Install Server (Linux).sh` executeable by running `chmod +x 'Install Server (Linux).sh'`
+- ###### Execute the "**Install Server (Linux).sh**" bash script with `./'Install Server (Linux).sh'`. Answer the prompts and once it is done installing you can delete the cloned repository. You will be able to use "**./start.sh**" in the server installation directory to start your server. 
 
 ## Authors
 
